@@ -15,7 +15,7 @@ function callEndpointAndFetresponse() {
         })
         .then(function (response) {
             // convert JSON n Response string
-            let responseData = JSON.stringify(response);
+            var responseData = JSON.stringify(response);
 
             console.log("\n Response body recieved is : " + responseData);
 
