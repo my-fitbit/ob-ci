@@ -23,6 +23,8 @@ upload_files() {
 echo "now Pushing changes to another branch"
 echo
   git remote add origin https://${GH_TOKEN}@github.com/my-fitbit/ob-ci.git > /dev/null 2>&1
+  git pull origin main
+  git push -f origin main
   git push --quiet --set-upstream origin travis-ci 
 }
 
