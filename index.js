@@ -1,6 +1,6 @@
 console.log("Wow this works !");
 
-const fetch = require("node-fetch");
+var fetch = require("node-fetch");
 
 callEndpointAndFetresponse();
 
