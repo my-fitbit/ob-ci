@@ -8,21 +8,25 @@ echo
     git config --global user.name "Travis CI"
 }
 
-commit_response_files() {  
+commit_response_files() {  	
 
 echo "TRAVIS_BUILD_NUMBER : $TRAVIS_BUILD_NUMBER"
 echo
 
-# git checkout -b travis-ci
+  git checkout travis-ci
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-
-echo "now Pushing changes to another branch"
 echo
+echo "Set remote with token"
+
   git remote add origin https://${GH_TOKEN}@github.com/my-fitbit/ob-ci.git > /dev/null 2>&1
+
+echo
+echo "now Pushing changes to another branch"
+
   git push -f --quiet --set-upstream origin travis-ci 
 }
 
