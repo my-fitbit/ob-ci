@@ -13,17 +13,17 @@ commit_response_files() {
 echo "TRAVIS_BUILD_NUMBER : $TRAVIS_BUILD_NUMBER"
 echo
 
-  git checkout -b main
+  git checkout -b travis-ci
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
 
-echo "now uloading files"
+echo "now Pushing changes to another branch"
 echo
-  git remote add origin https://${GH_TOKEN}@github.com/my-fitbit/openbankingAus.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin main 
+  git remote add origin https://${GH_TOKEN}@github.com/my-fitbit/ob-ci.git > /dev/null 2>&1
+  git push --quiet --set-upstream origin travis-ci 
 }
 
 setup_git
