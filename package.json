@@ -1,0 +1,26 @@
+{
+  "name": "ob-ci",
+  "version": "0.0.1",
+  "description": "CI Tarvis integration with github, to run and push files back to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-fitbit/ob-ci.git"
+  },
+  "keywords": [
+    "tarvis",
+    "ob",
+    "github",
+    "files",
+    "ci"
+  ],
+  "author": "Millan Kaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my-fitbit/ob-ci/issues"
+  },
+  "homepage": "https://github.com/my-fitbit/ob-ci#readme"
+}
