@@ -25,7 +25,12 @@ echo "Set remote with token"
   git remote add origin https://${GH_TOKEN}@github.com/my-fitbit/ob-ci.git > /dev/null 2>&1
 
 echo
+echo "git show-ref"
+	git show-ref
+
+echo
 echo "now Pushing changes to another branch"
+
 
   git push -f --quiet --set-upstream origin travis-ci 
 }
