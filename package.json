@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/my-fitbit/ob-ci/issues"
   },
-  "homepage": "https://github.com/my-fitbit/ob-ci#readme"
+  "homepage": "https://github.com/my-fitbit/ob-ci#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
