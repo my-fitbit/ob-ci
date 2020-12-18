@@ -13,7 +13,7 @@ commit_response_files() {
 echo "TRAVIS_BUILD_NUMBER : $TRAVIS_BUILD_NUMBER"
 echo
 
-  git checkout travis-ci
+  git checkout -b travis-ci
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
