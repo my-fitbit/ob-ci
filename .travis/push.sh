@@ -26,6 +26,6 @@ echo
   git push --quiet --set-upstream origin travis-ci 
 }
 
-setup_git
+# setup_git
 commit_response_files
 upload_files
