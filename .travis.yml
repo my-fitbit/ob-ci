@@ -2,7 +2,7 @@ language: node_js
 node_js:
 - 14.15.1
 before_script:
-  - git config --global user.email "tusharmath@gmail.com"
+  - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis-CI"
 after_script:
   - git config credential.helper "store --file=.git/credentials"
