@@ -64,7 +64,7 @@ function printProducts(responseDataInJson, bankName) {
 
             productId_n = "Last Screen"
             name_n = "-- About App --"
-            description_n = "Enjoy the "+ bankName +" Product details on your wrist (fitbit) !\n\n`My ING AU` app displays publically availabe list of products offered by "+ bankName +" Bank (Australia).\nThis is as per Open Banking mandate by Australia Gov (CDS).\n\nNote: List of products may not contain all the products offered by the bank.\n\nAnd for making any finincial decision always go to : https://www."+bankName+".com.au/.\n\n\n Important Disclaimer: Developer of the this app does not accept liability for information contained in this app."
+            description_n = "Enjoy the "+ bankName +" Product details on your wrist (fitbit) !\n\n`My ING AU` app displays list of products offered by "+ bankName +" Bank (Australia); this data is publically available as per Open Banking mandate by Gov of Australia (CDS).\n\nNote: List of products may not contain all the products offered by the bank.\n\nAnd for making any financial decision always go to : https://www."+bankName+".com.au/.\n\n\nImportant Disclaimer: Developer of the this app does not accept liability for information contained in this app.\n\nTo know more about Open Banking (CDS) visit: https://consumerdatastandards.gov.au/tag/open-banking/"
 
             // Add this to end of the array
             products.push({ 'productId': productId_n, 'name': name_n, "description": description_n })
