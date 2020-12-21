@@ -106,3 +106,7 @@ dist
 #some temp files
 tempCode.js
 todo.md
+
+
+# VS code setting
+.vscode/*
