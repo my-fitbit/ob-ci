@@ -54,20 +54,20 @@ function printProducts(responseDataInJson, bankName) {
 
         products[i] = { productId, name, description }
         
-        if (i == prodCount - 1) {
-            productId_0 = "place-holder-self"
-            name_0 = "My ING AU"
-            description_0 = "The app displays list of products provided by ING Bank (Australia). All details are fetched from public `Products` data provided by the bank.\n\nSearch `Open Banking` or CDS by Gov. of Australia.\n\nEnjoy the Product details on your wrist (fitbit) !"
-
+	if (i == prodCount - 1) {
+	    productId_0 = "Last Screen on APP"
+            name_0 = "Welcome !"
+            description_0 = "Thank you for using my ING AU app.\n\n This data was last updated on lastUpdatedTime"
+		
             // Add this to begining of array
             products.unshift({ 'productId': productId_0, 'name': name_0, "description": description_0 })
 
-            productId_n = "Last Screen on APP"
-            name_n = "Thank you !"
-            description_n = "This data was last updated on "
+            productId_n = "Last Screen"
+            name_n = "About app"
+            description_n = "Enjoy the Product details on your wrist (fitbit) !\n\n`My ING AU` app displays publically availabe list of products by "+ bankName +" Bank (Australia) as per Open Banking mandate by Australia Gov.\n\n Note: This list might not be contain all the available products.\n\nAnd for any making any banking decision always go to : https://www."+bankName+".com.au/"
 
             // Add this to end of the array
-            products.unshift({ 'productId': productId_n, 'name': name_n, "description": description_n })
+            products.push({ 'productId': productId_n, 'name': name_n, "description": description_n })
 
 
         }
