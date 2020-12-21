@@ -74,8 +74,11 @@ function printProducts(responseDataInJson, bankName) {
     }
 
     var filename = "./opt/PRODUCTS/"+bankName+"/fitbit/products.json";
-
-    fs.writeFileSync(filename, JSON.stringify(products, null, 2), {flag: 'w'}, function (err) {
+    
+    /* Format the response as desired by fitbit companion*/
+    var productReadyForFitbit = "{\"products\":" + JSON.stringify(products, null, 2) + "}";
+	
+    fs.writeFileSync(filename, productReadyForFitbit, {flag: 'w'}, function (err) {
         if (err) throw err;
         console.log('complete');
     });
