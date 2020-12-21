@@ -1,36 +1,23 @@
-console.log("Wow this works !");
+const products = require("./banks/products");
 
-const fetch = require("node-fetch");
-var fs = require('fs');
 
-callEndpointAndFetresponse();
 
-function callEndpointAndFetresponse() {
-    /* 
-    Actual utl : https://gist.github.com/my-fitbit/afcc19876d87c41c0401f07184bb5b44#file-200-json
-    using raw url to get jsson response in fetch
-    */
-    fetch("https://gist.githubusercontent.com/my-fitbit/afcc19876d87c41c0401f07184bb5b44/raw/c7977e2873fbd77003929369a383d592cbadb8f3/200.json")
-        .then(function (response) {
-            return response.json();
-        })
-        .then(function (response) {
-            // convert JSON n Response string
-            var responseData = JSON.stringify(response);
+//TODO - currently hardcoded version, need to implement a logic to auto update it on fail
+/*  *************  ING Parameters *************/
+BANK = "ING";
+URL_GET_PRODUCTS = "https://apic.ing.com.au/cds-au/";
+endpoint = "/banking/products";
+URL_VER_GET_PROD = 1;
+xv_GET_PROD = 3;
 
-            console.log("\n Response body recieved is : " + responseData);
 
-            /*
-            Let's save and write response to a json file  
-            located at ./opt/products.json
-            */
-            fs.writeFileSync("./opt/products.json", responseData, function (err) {
-                if (err) {
-                    console.log("Error while saving data to file : " + err);
-                }
-                console.log("JSON data is saved.");
-            });
+/*  *************  CBA Parameters *************
+BANK = "CBA";
+URL_GET_PRODUCTS = "https://api.commbank.com.au/public/cds-au/";
+endpoint = "/banking/products";
+URL_VER_GET_PROD = 1;
+xv_GET_PROD = 2;
+*/
 
-        })
-        .catch(function (error) { console.log(error); });
-}
+console.log(BANK + " : GET - PRODUCTS API");
+var response  = products.getIngProducts(BANK,URL_GET_PRODUCTS,URL_VER_GET_PROD,xv_GET_PROD, endpoint );

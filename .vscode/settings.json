@@ -1,0 +1,5 @@
+{
+    "npm.fetchOnlinePackageInfo": false,
+    "git.confirmSync": false,
+    "git.enableStatusBarSync": false
+}
