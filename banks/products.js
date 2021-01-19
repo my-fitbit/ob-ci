@@ -57,14 +57,14 @@ function printProducts(responseDataInJson, bankName) {
 	if (i == prodCount - 1) {
 	    productId_0 = "Last Screen on APP"
             name_0 = "Welcome !"
-            description_0 = "Thank you for using my ING AU app.\n\nThis data was last updated on: lastUpdatedTime"
+            description_0 = "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : lastUpdatedTime"
 		
             // Add this to begining of array
             products.unshift({ 'productId': productId_0, 'name': name_0, "description": description_0 })
 
             productId_n = "Last Screen"
             name_n = "-- About App --"
-            description_n = "Enjoy the "+ bankName +" Product details on your wrist (fitbit) !\n\n`My ING AU` app displays list of products offered by "+ bankName +" Bank (Australia); this data is publically available as per Open Banking mandate by Gov of Australia (CDS).\n\nNote: List of products may not contain all the products offered by the bank.\n\nAnd for making any financial decision always go to : https://www."+bankName+".com.au/.\n\n\nImportant Disclaimer: Developer of the this app does not accept liability for information contained in this app."
+            description_n = "Enjoy the "+ bankName +" Product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays list of products offered by "+ bankName +" Bank (Australia); this data is publically available as per Consumer data right (CDR) by ACCC, Australia (otherwise named as Open Banking).\n\nNote: List of products may not contain all the products offered by the bank.\n\For making any financial decision always go to : https://www."+bankName+".com.au/.\n\n\nImportant Disclaimer: Developer of the this app does not accept liability for information contained in this app."
 
             // Add this to end of the array
             products.push({ 'productId': productId_n, 'name': name_n, "description": description_n })
