@@ -1,0 +1,3252 @@
+{
+  "data": {
+    "products": [
+      {
+        "productId": "PLUnsecured",
+        "lastUpdated": "2021-02-08T09:37:03Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Personal Loan",
+        "description": " A fixed rate helps you plan ahead, as you know what your repayments will be",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?promoCode=WS1#/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/unsecured-personal-loan/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+          "eligibilityUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/unsecured-personal-loan/"
+        }
+      },
+      {
+        "productId": "PLCar",
+        "lastUpdated": "2021-02-08T09:37:02Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Car Loan",
+        "description": "Your dream car could be closer than you think with a Westpac Car Loan.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?appType=Secured#/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/car-loan/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/personal-loans/p-l-contract-general-conditions.pdf",
+          "eligibilityUri": "https://banking.westpac.com.au/zoom/personalloan/pol/plapp/appcapture?appType=Secured#/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/car-loan/"
+        }
+      },
+      {
+        "productId": "FarmManagementDepositAccount",
+        "lastUpdated": "2021-02-03T06:01:21Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Farm Management Deposit account",
+        "description": "As a primary producer, invest pre-tax income from high yield years to provide a cash reserve for the future.",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/agri-farm-management-deposit/"
+        }
+      },
+      {
+        "productId": "BSATDBusTermDeposit",
+        "lastUpdated": "2021-02-03T06:01:14Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Business Term Deposit",
+        "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/fixed-term-deposit"
+        }
+      },
+      {
+        "productId": "BSATDTermDeposit",
+        "lastUpdated": "2021-02-03T06:01:07Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Term Deposit",
+        "description": "With a BankSA Term Deposit you can invest your money safely and know exactly what your return will be.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/term-deposits"
+        }
+      },
+      {
+        "productId": "BOMTDBusTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:58Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Business Term Deposit",
+        "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/fixed-term-deposit"
+        }
+      },
+      {
+        "productId": "BOMTDTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:50Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Term Deposit",
+        "description": "With a Bank of Melbourne Term Deposit you can invest your money safely and know exactly what your return will be.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/term-deposits"
+        }
+      },
+      {
+        "productId": "STGTDBusTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:44Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Business Term Deposit",
+        "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/fixed-term-deposit"
+        }
+      },
+      {
+        "productId": "STGTDTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:37Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Term Deposit",
+        "description": "With a St.George Term Deposit you can invest your money safely and know exactly what your return will be.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/term-deposits"
+        }
+      },
+      {
+        "productId": "TDBusTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:31Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Business Term Deposit",
+        "description": "A Westpac Business Term Deposit lets you invest your money with the certainty of a fixed interest rate and a choice of terms.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/term-deposits/"
+        }
+      },
+      {
+        "productId": "TDTermDeposit",
+        "lastUpdated": "2021-02-03T06:00:29Z",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "Term Deposit",
+        "description": "A Westpac Term Deposit lets you invest your money with the certainty of a fixed interest rate and a choice of terms.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/term-deposit/"
+        }
+      },
+      {
+        "productId": "STGCCVertigoRainbowcard",
+        "lastUpdated": "2020-12-22T00:11:10Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo Rainbow card",
+        "description": "Our product with 0% p.a. for 18 months on balance transfers# - 0% balance transfer fee",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/low-rate/vertigo-rainbow-card"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-vertigo-classic-card-art-291x198px.jpg",
+            "title": "St.George Rainbow Vertigo credit card"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCVertigoPlatinumRainbowcard",
+        "lastUpdated": "2020-12-22T00:11:10Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo Platinum Rainbow card ",
+        "description": "Our product with 0% p.a. on purchases for 15 months from card approval.~ New cards only. Offer ends 2nd June 2020.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/low-rate/vertigo-platinum-rainbow-card"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-vertigo-platinum-rainbow_261x166.png",
+            "title": "St.George Rainbow Vertigo Platinum credit card"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCNoannualfeecard",
+        "lastUpdated": "2020-12-22T00:11:09Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "No annual fee card ",
+        "description": "An everyday credit card without the annual fee",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/no-annual-fee"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg_p_credit-cards_no-annual-fee.jpg",
+            "title": "STG No Annual Fee card"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCVertigocard",
+        "lastUpdated": "2020-12-22T00:11:09Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo card",
+        "description": "An everyday card with a low annual card fee and purchase rate",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/low-rate/vertigo"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_balance-transfer_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCVertigoPlatinumcard",
+        "lastUpdated": "2020-12-22T00:11:09Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo Platinum",
+        "description": "A low rate credit card with platinum extras",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/low-rate/vertigo-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_low-interest-rate_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCAmplifycardFrequentFlyer",
+        "lastUpdated": "2020-12-22T00:11:08Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Frequent Flyer)",
+        "description": "Spend on your card and earn points to redeem with Qantas",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/frequent-flyer/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/STG-amplify_261x166.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCAmplifycardRewards",
+        "lastUpdated": "2020-12-22T00:11:08Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Rewards)",
+        "description": "With our Amplify card product, get rewarded just for using your card as normal",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/rewards/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/STG-amplify_261x166.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCNoannualfeecard",
+        "lastUpdated": "2020-12-22T00:08:37Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "No annual fee card ",
+        "description": "An everyday credit card without the annual fee",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/no-annual-fee"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_no-annual-fee_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCVertigocard",
+        "lastUpdated": "2020-12-22T00:08:37Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo card",
+        "description": "An everyday card with a low annual card fee and purchase rate",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/low-rate/vertigo"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_balance-transfer_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCVertigoPlatinumcard",
+        "lastUpdated": "2020-12-22T00:08:37Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo Platinum card ",
+        "description": "A low rate credit card with platinum extras",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/low-rate/vertigo-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_low-interest-rate_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifycardRewards",
+        "lastUpdated": "2020-12-22T00:08:36Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Rewards)",
+        "description": "With our Amplify card product, get rewarded just for using your card as normal",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/rewards/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/bsa-cards_amplify_261x166.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifySignaturecardRewards",
+        "lastUpdated": "2020-12-22T00:08:36Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Rewards)",
+        "description": "Our most rewarding credit card",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/rewards/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_rewards_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifycardFrequentFlyer",
+        "lastUpdated": "2020-12-22T00:08:35Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Frequent Flyer)",
+        "description": "Spend on your card and earn points to redeem with Qantas",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/frequent-flyer/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/bsa-cards_amplify_261x166.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCVertigocard",
+        "lastUpdated": "2020-12-22T00:06:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo card",
+        "description": "An everyday card with a low annual card fee and purchase rate",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/low-rate/vertigo"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_vertigo.png",
+            "title": "Bank of Melbourne Vertigo credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCVertigoPlatinumcard",
+        "lastUpdated": "2020-12-22T00:06:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Vertigo  Platinum",
+        "description": "A low rate credit card with platinum extras",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/low-rate/vertigo-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_vertigo-platinum.png",
+            "title": "Vertigo Platinum credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCNoannualfeecard",
+        "lastUpdated": "2020-12-22T00:06:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "NO ANNUAL FEE",
+        "description": "An everyday credit card without the annual fee",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/no-annual-fee"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/Personal/Credit%20Card/bom_p_credit-cards_naf.png"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCAmplifycardRewards",
+        "lastUpdated": "2020-12-22T00:06:44Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Rewards)",
+        "description": "With our Amplify card product, get rewarded just for using your card as normal",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-classic.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCAmplifycardFrequentFlyer",
+        "lastUpdated": "2020-12-22T00:06:43Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify card (Frequent Flyer)",
+        "description": "Spend on your card and earn points to redeem with Qantas",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-classic.png",
+            "title": "Amplify card"
+          }
+        ]
+      },
+      {
+        "productId": "MLOnlineInvestmentLoan",
+        "lastUpdated": "2020-12-14T09:31:47Z",
+        "productCategory": "MARGIN_LOANS",
+        "name": "Westpac  Online Investment Loan",
+        "description": "Designed for direct investors, and integrated with a Westpac Share Trading account, our simplified margin loan may help you build a diversified share portfolio.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/share-trading/investment-loan/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/1999030/Westpac_Online_Investment_Loan_Facility_Agreement.pdf"
+        }
+      },
+      {
+        "productId": "BSAHLBuildingLoanInvestmentPI",
+        "lastUpdated": "2020-12-14T09:31:05Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "BankSA",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BSAHLStandardVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:31:04Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BSAHLBuildingLoanOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:31:04Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "BankSA",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BSAHLBuildingLoanOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:31:04Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "BankSA",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BSAHLStandardVariableInvestmentPI",
+        "lastUpdated": "2020-12-14T09:31:04Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BSAHLBuildingLoanInvestmentIO",
+        "lastUpdated": "2020-12-14T09:31:04Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "BankSA",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BSAHLRelocationLoanOwnerOccupiedWithoutEndIO",
+        "lastUpdated": "2020-12-14T09:31:03Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan without end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "BSAHLStandardVariableOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:31:03Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BSAHLRelocationLoanOwnerOccupiedWithEndIO",
+        "lastUpdated": "2020-12-14T09:31:03Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan with end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "BSAHLStandardVariableOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:31:03Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BSAHLPortfolioLoanVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:31:02Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
+        "description": "Bank of South Australia's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "BSAHLPortfolioLoanFixedInvestmentIO",
+        "lastUpdated": "2020-12-14T09:31:02Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
+        "description": "Bank of South Australia's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "BSAHLFixedRateInvestmentPI",
+        "lastUpdated": "2020-12-14T09:31:01Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLFixedRateInvestmentIO",
+        "lastUpdated": "2020-12-14T09:31:01Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLFixedRateOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:31:00Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLFixedRateOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:31:00Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLBasicOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:59Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Interest only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLBasicInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:59Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLBasicInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:59Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Interest Only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BSAHLBasicOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:59Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBuildingLoanInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:58Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "Bank of Melbourne",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBuildingLoanOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:58Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "Bank of Melbourne",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBuildingLoanInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:58Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "Bank of Melbourne",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BOMHLStandardVariableOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:57Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BOMHLBuildingLoanOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:57Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "Bank of Melbourne",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "BOMHLStandardVariableOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:57Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BOMHLStandardVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:57Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BOMHLStandardVariableInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:57Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "BOMHLRelocationLoanOwnerOccupiedWithEndIO",
+        "lastUpdated": "2020-12-14T09:30:56Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan with end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "BOMHLRelocationLoanOwnerOccupiedWithoutEndIO",
+        "lastUpdated": "2020-12-14T09:30:56Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan without end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "BOMHLPortfolioLoanVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:56Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
+        "description": "Bank of Melbourne's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "BOMHLPortfolioLoanFixedInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:56Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
+        "description": "Bank of Melbourne's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "BOMHLFixedRateInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:55Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLFixedRateInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:55Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLFixedRateOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:54Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLFixedRateOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:54Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBasicOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:53Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Interest only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBasicInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:53Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Interest Only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBasicInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:53Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "BOMHLBasicOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:53Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/home-loans/our-home-loans/basic-home-loan"
+        }
+      },
+      {
+        "productId": "STGHLBuildingLoanInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:52Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "St. George Bank",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "STGHLBuildingLoanInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:52Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Investment Property Loan Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "St. George Bank",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "STGHLBuildingLoanOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:51Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Principal and Interest",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "St. George Bank",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "STGHLStandardVariableOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:51Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "STGHLBuildingLoanOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:51Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Building Loan Owner Occupied Interest Only",
+        "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
+        "brand": "St. George Bank",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/building-loan"
+        }
+      },
+      {
+        "productId": "STGHLStandardVariableInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:51Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Principal and Interest",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "STGHLStandardVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:51Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Investment Property Loan Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "STGHLStandardVariableOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:50Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Standard Variable Owner Occupied Interest Only",
+        "description": "A Standard Variable Rate Offering from the bank",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/standard-variable-rate"
+        }
+      },
+      {
+        "productId": "STGHLRelocationLoanOwnerOccupiedWithoutEndIO",
+        "lastUpdated": "2020-12-14T09:30:50Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan without end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "STGHLRelocationLoanOwnerOccupiedWithEndIO",
+        "lastUpdated": "2020-12-14T09:30:50Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Relocation Loan with end Owner Occupied Interest Only",
+        "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/specialist/relocation-loan"
+        }
+      },
+      {
+        "productId": "STGHLFixedRateInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:49Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "STGHLPortfolioLoanVariableInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:49Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
+        "description": "St.George's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "STGHLPortfolioLoanFixedInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:49Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
+        "description": "St.George's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/portfolio-loan"
+        }
+      },
+      {
+        "productId": "STGHLFixedRateInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:48Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "STGHLFixedRateOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:48Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Principal and Interest",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "STGHLFixedRateOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:48Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Owner Occupied Interest Only",
+        "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/fixed-rate-home-loan"
+        }
+      },
+      {
+        "productId": "STGHLBasicOwnerOccupiedPI",
+        "lastUpdated": "2020-12-14T09:30:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/basic-home-loan",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/home-loans/Loan-Accounts.pdf"
+        }
+      },
+      {
+        "productId": "STGHLBasicInvestmentPI",
+        "lastUpdated": "2020-12-14T09:30:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Principal and Interest",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/basic-home-loan",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/home-loans/Loan-Accounts.pdf"
+        }
+      },
+      {
+        "productId": "STGHLBasicInvestmentIO",
+        "lastUpdated": "2020-12-14T09:30:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Investment Property Loan Interest Only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/basic-home-loan",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/home-loans/Loan-Accounts.pdf"
+        }
+      },
+      {
+        "productId": "STGHLBasicOwnerOccupiedIO",
+        "lastUpdated": "2020-12-14T09:30:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Basic Home Loan Owner Occupied Interest only",
+        "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/home-loans/our-home-loans/basic-home-loan",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/home-loans/Loan-Accounts.pdf"
+        }
+      },
+      {
+        "productId": "BOMCCAmplifyPlatinumcardFrequentFlyer",
+        "lastUpdated": "2020-12-01T03:36:12Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Frequent Flyer)",
+        "description": "A rewards credit card with insurances",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-platinum.png",
+            "title": "Amplify Platinum card"
+          }
+        ]
+      },
+      {
+        "productId": "WestpacCommercialHirePurchase",
+        "lastUpdated": "2020-11-24T08:07:26Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Commercial Hire Purchase",
+        "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/equipment-finance/equipment-finance/"
+        }
+      },
+      {
+        "productId": "WestpacCommercialLoan",
+        "lastUpdated": "2020-11-24T08:07:26Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Commercial Loan",
+        "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/equipment-finance/equipment-finance/"
+        }
+      },
+      {
+        "productId": "WestpacFinanceLease",
+        "lastUpdated": "2020-11-24T08:07:26Z",
+        "productCategory": "LEASES",
+        "name": "Westpac Finance Lease",
+        "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/equipment-finance/equipment-finance/"
+        }
+      },
+      {
+        "productId": "UnsecuredBusinessLoan",
+        "lastUpdated": "2020-11-24T08:07:19Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Unsecured Business Loan",
+        "description": "Our offering to help your business in challenging times",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/unsecured-business-loan/"
+        }
+      },
+      {
+        "productId": "TrChoiceMigrant",
+        "lastUpdated": "2020-11-24T08:06:03Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for migrants",
+        "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/migrants/"
+        }
+      },
+      {
+        "productId": "TrChoice55",
+        "lastUpdated": "2020-11-24T08:06:02Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac 55+ and Retired",
+        "description": "Westpac 55+ and Retired account is a flexible everyday account designed for retirees.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/deeming/"
+        }
+      },
+      {
+        "productId": "SavESaver",
+        "lastUpdated": "2020-11-24T08:05:58Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac eSaver",
+        "description": "Earn great interest with our eSaver account, an online savings account with 24/7 access to funds.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/savings-accounts/esaver/"
+        }
+      },
+      {
+        "productId": "BSAPLSecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:48Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Variable Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "BSAPLSecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:47Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Fixed Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "BSAPLUnsecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:47Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Variable Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/personal-loans/unsecured-loan"
+        }
+      },
+      {
+        "productId": "BSAPLUnsecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:47Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Fixed Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/personal-loans/unsecured-loan"
+        }
+      },
+      {
+        "productId": "BOMPLSecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:40Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Variable Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "BOMPLSecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:40Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Fixed Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "BOMPLUnsecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:40Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Variable Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/personal-loans/unsecured-loan"
+        }
+      },
+      {
+        "productId": "BOMPLUnsecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:40Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Fixed Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/personal-loans/unsecured-loan"
+        }
+      },
+      {
+        "productId": "STGPLSecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:33Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Variable Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "STGPLSecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:33Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Secured Fixed Personal Loan",
+        "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/personal-loans/secured-loan"
+        }
+      },
+      {
+        "productId": "STGPLUnsecuredVariable",
+        "lastUpdated": "2020-11-24T08:04:32Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Variable Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/personal-loans/unsecured-loan#rates"
+        }
+      },
+      {
+        "productId": "STGPLUnsecuredFixed",
+        "lastUpdated": "2020-11-24T08:04:32Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Unsecured Fixed Personal Loan",
+        "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/personal-loans/unsecured-loan#rates"
+        }
+      },
+      {
+        "productId": "STGCCAmplifyPlatinumcardFrequentFlyer",
+        "lastUpdated": "2020-10-06T06:21:49Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Frequent Flyer)",
+        "description": "A rewards credit card with insurances",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/frequent-flyer/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_qantas_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifyPlatinumcardFrequentFlyer",
+        "lastUpdated": "2020-10-06T06:18:19Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Frequent Flyer)",
+        "description": "A rewards credit card with insurances and a concierge service",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/frequent-flyer/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_qantas_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "RAMSSaver",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T03:25:14Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "RAMS Saver ",
+        "description": "A completely online savings account, easily managed via myRAMS where you can deposit, withdraw and transfer funds",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://newcustomer.myrams.com.au/RAMS.NetTeller/NewCustomer.aspx?p=H01",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://rams.com.au/savings-and-transactions/rams-saver/",
+          "termsUri": "https://rams.com.au/deposit-accounts-terms-conditions/",
+          "eligibilityUri": "https://rams.com.au/savings-and-transactions/rams-saver/",
+          "feesAndPricingUri": "https://rams.com.au/RAMS-deposit-rates-and-fees/"
+        }
+      },
+      {
+        "productId": "RAMSLineOfCredit",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T00:50:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "RAMS Line Of Credit",
+        "description": "Whether due to extra repayments or a capital gain, chances are some equity may have built up in your home over time.   Accessing this equity, to have a transactional facility with a set credit limit, secured by a property, is what a line of credit home loan can offer, subject to being able to service the loan.  \\n\\nWith an approved limit in place, you can access those funds for any investment purposes.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/home-loans/line-of-credit/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.rams.com.au/home-loans/line-of-credit/",
+          "termsUri": "https://www.rams.com.au/home-loans/line-of-credit/",
+          "eligibilityUri": "https://www.rams.com.au/home-loans/line-of-credit/",
+          "feesAndPricingUri": "https://www.rams.com.au/home-loans/line-of-credit/#Fees"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.rams.com.au/uploadedImages/newramscomau/Content/Savings_and_Transactions/RAMS-debit-card.png",
+            "title": "RAMS EFTPOS Debit Card"
+          }
+        ]
+      },
+      {
+        "productId": "RAMSHLVariableFullFeature",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T00:50:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "RAMS Full Feature Home Loan",
+        "description": "A home loan with loads of features offering the ultimate in flexibility, parental leave options and a competitive rate, we are confident our RAMS full feature home loan has all you?ll probably need in a mortgage.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/home-loans/full-feature-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.rams.com.au/home-loans/full-feature-home-loan/",
+          "termsUri": "https://www.rams.com.au/home-loans/full-feature-home-loan/",
+          "eligibilityUri": "https://www.rams.com.au/home-loans/full-feature-home-loan/",
+          "feesAndPricingUri": "https://www.rams.com.au/home-loans/full-feature-home-loan/#Fees"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.rams.com.au/uploadedImages/newramscomau/Content/Savings_and_Transactions/RAMS-debit-card.png",
+            "title": "RAMS EFTPOS Debit Card"
+          }
+        ]
+      },
+      {
+        "productId": "RAMSHLVariableEssential",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T00:49:38Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "RAMS Essential Home Loan",
+        "description": "A simple, clear to understand home loan to help you with one of the biggest purchases in life.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/home-loans/essential-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.rams.com.au/home-loans/essential-home-loan/",
+          "termsUri": "https://www.rams.com.au/home-loans/essential-home-loan/",
+          "eligibilityUri": "https://www.rams.com.au/home-loans/essential-home-loan/",
+          "feesAndPricingUri": "https://www.rams.com.au/home-loans/essential-home-loan/#Fees"
+        }
+      },
+      {
+        "productId": "RAMSHLFixedRate",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T00:49:37Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "RAMS Fixed Rate Home Loan",
+        "description": "If you are looking for a packaged home loan with additional extras, the RAMS Fixed Rate Home Loan can form as part of the fixed portion of your loan should you wish to split your loan between fixed and variable rates. \n\nBy being a fixed rate home loan, you can benefit from inbuilt protection against rate changes during the fixed interest rate period as well as having the ability to make additional repayments up to $30,000 during the fixed term period.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/home-loans/fixed-rate-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.rams.com.au/home-loans/fixed-rate-home-loan/",
+          "termsUri": "https://www.rams.com.au/home-loans/fixed-rate-home-loan/",
+          "eligibilityUri": "https://www.rams.com.au/home-loans/fixed-rate-home-loan/",
+          "feesAndPricingUri": "https://www.rams.com.au/home-loans/fixed-rate-home-loan/#Fees"
+        }
+      },
+      {
+        "productId": "RAMSHLFixedRateClassic",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-25T00:49:37Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "RAMS Fixed Rate Classic Home Loan",
+        "description": "A simple fixed loan with no additional extras, reverts to the RAMS Essential Home Loan when the fixed term expires.  Ideal for first home buyers and investors�",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/home-loans/fixed-rate-classic-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.rams.com.au/home-loans/fixed-rate-classic-home-loan/",
+          "termsUri": "https://www.rams.com.au/home-loans/fixed-rate-classic-home-loan/",
+          "eligibilityUri": "https://www.rams.com.au/home-loans/fixed-rate-classic-home-loan/",
+          "feesAndPricingUri": "https://www.rams.com.au/home-loans/fixed-rate-classic-home-loan/#Fees"
+        }
+      },
+      {
+        "productId": "RAMSActionwithOffset",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-18T04:01:33Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "RAMS Action with Offset",
+        "description": "By linking a RAMS Action account to your eligible RAMS home loan, you could pay less interest on your home loan.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://www.rams.com.au/savings-and-transactions/rams-action-offset/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://rams.com.au/savings-and-transactions/rams-action-offset/",
+          "termsUri": "https://rams.com.au/deposit-accounts-terms-conditions/",
+          "eligibilityUri": "https://rams.com.au/savings-and-transactions/rams-action-offset/",
+          "feesAndPricingUri": "https://rams.com.au/RAMS-deposit-rates-and-fees/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.rams.com.au/uploadedImages/newramscomau/Content/Savings_and_Transactions/RAMS-debit-card.png",
+            "title": "RAMS EFTPOS Debit Card"
+          }
+        ]
+      },
+      {
+        "productId": "RAMSAction",
+        "effectiveTo": "9999-12-30T23:59:00Z",
+        "lastUpdated": "2020-09-18T04:01:33Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "RAMS Action ",
+        "description": "It's an everyday transaction account, managed online via myRAMS where you can transfer funds between RAMS accounts, and much more.",
+        "brand": "RAMS",
+        "brandName": "RAMS",
+        "applicationUri": "https://newcustomer.myrams.com.au/RAMS.NetTeller/NewCustomer.aspx?p=V01",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://rams.com.au/savings-and-transactions/rams-action/",
+          "termsUri": "https://rams.com.au/deposit-accounts-terms-conditions/",
+          "eligibilityUri": "https://rams.com.au/savings-and-transactions/rams-action/",
+          "feesAndPricingUri": "https://rams.com.au/RAMS-deposit-rates-and-fees/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.rams.com.au/uploadedImages/newramscomau/Content/Savings_and_Transactions/RAMS-debit-card.png",
+            "title": "RAMS EFTPOS Debit Card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMTrConcession",
+        "lastUpdated": "2020-09-15T06:53:00Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Concession ",
+        "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
+        "brand": "Bank of Melbourne",
+        "applicationUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+          "termsUri": "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/concession-account"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/Personal/bank-accounts/BOM-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BOMTrRetirementAccess",
+        "lastUpdated": "2020-09-15T06:53:00Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Retirement Access Plus",
+        "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
+        "brand": "Bank of Melbourne",
+        "applicationUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+          "termsUri": "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/Personal/bank-accounts/BOM-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BOMTrCompleteFreedom",
+        "lastUpdated": "2020-09-15T06:53:00Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Complete Freedom ",
+        "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+        "brand": "Bank of Melbourne",
+        "applicationUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+          "termsUri": "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/transaction-accounts/complete-freedom"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/Personal/bank-accounts/BOM-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCBusBusinessVantage",
+        "lastUpdated": "2020-09-15T06:52:59Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Business Vantage",
+        "description": "The BusinessVantage Joint and several liability with a liability structure suitable for more complex small businesses.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/credit-card/low-rate"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/business/credit-card/BOM_Business-Vantage-credit-card_261x166.jpg",
+            "title": "BusinessVantage credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCBusAmplifyBusiness",
+        "lastUpdated": "2020-09-15T06:52:59Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Business",
+        "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/credit-card/rewards"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/images/business/credit-card/BOM_Business-Amplify-credit-card_261x166.jpg",
+            "title": "Amplify Business credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCAmplifySignaturecardRewards",
+        "lastUpdated": "2020-09-15T06:52:58Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Rewards)",
+        "description": "Our most rewarding credit card",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-signature.png",
+            "title": "Amplify Signature card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCAmplifyPlatinumcardRewards",
+        "lastUpdated": "2020-09-15T06:52:58Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Rewards)",
+        "description": "An everyday rewards points credit card with insurance",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-platinum.png",
+            "title": "Amplify Platinum card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMCCAmplifySignaturecardFrequentFlyer",
+        "lastUpdated": "2020-09-15T06:52:57Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Frequent Flyer)",
+        "description": "Our most rewarding credit card",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.bankofmelbourne.com.au/content/dam/bom/ProjectSimple/ProjectSimpleImages/bom_p_credit-cards_amplify-signature.png",
+            "title": "Amplify Signature card"
+          }
+        ]
+      },
+      {
+        "productId": "BOMSavBusBusinessAccessSaver",
+        "lastUpdated": "2020-09-15T02:51:21Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Access Saver",
+        "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/business-access-saver"
+        }
+      },
+      {
+        "productId": "BOMSavMaxiSaver",
+        "lastUpdated": "2020-09-15T02:51:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Maxi Saver",
+        "description": "Anytime access with our highest interest savings account product",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/savings-accounts/maxi-saver"
+        }
+      },
+      {
+        "productId": "BOMSavIncentiveSaver",
+        "lastUpdated": "2020-09-15T02:51:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Incentive Saver",
+        "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/personal/bank-accounts/savings-accounts/incentive-saver"
+        }
+      },
+      {
+        "productId": "BOMTrBusBusinessChequeAccountPlus",
+        "lastUpdated": "2020-09-15T02:51:18Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Cheque Account Plus",
+        "description": "Complete everyday business bank account, ideal for businesses with a high number of transactions each month.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/business-cheque-account-plus"
+        }
+      },
+      {
+        "productId": "BOMTrBusStatutoryTrustAccount",
+        "lastUpdated": "2020-09-15T02:51:18Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Statutory Trust Account",
+        "description": "Our Statutory Trust Accounts to help you comply with statutory requirements.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/statutory-trust-account",
+          "feesAndPricingUri": "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/business/bank-accounts/business_accounts_terms.pdf"
+        }
+      },
+      {
+        "productId": "BOMTrBusSocietyChequeAccount",
+        "lastUpdated": "2020-09-15T02:51:18Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Society Cheque Account",
+        "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/society-cheque-account"
+        }
+      },
+      {
+        "productId": "BOMTrBusFreedomBusinessAccount",
+        "lastUpdated": "2020-09-15T02:51:17Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Freedom Business Account",
+        "description": "Essential everyday transaction bank account with the flexibility and freedom your business needs. Ideal for starting a new business.",
+        "brand": "Bank of Melbourne",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.bankofmelbourne.com.au/business/bank-accounts/freedom-business-account"
+        }
+      },
+      {
+        "productId": "STGTrConcession",
+        "lastUpdated": "2020-09-10T09:32:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Concession",
+        "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
+        "brand": "St. George Bank",
+        "applicationUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+          "termsUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/concession-account"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/STG-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCBusAmplifyBusiness",
+        "lastUpdated": "2020-09-10T09:32:18Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Business",
+        "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/credit-card/rewards"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/business/credit-cards/Business-Amplify-credit-card_261x166.jpg",
+            "title": "Amplify Business credit card"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCBusBusinessVantage",
+        "lastUpdated": "2020-09-10T09:32:18Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Business Vantage",
+        "description": "The BusinessVantage Visa credit card has a variable purchase rate of 9.99% p.a. (new cards only) and up to 55 days interest-free on purchases.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/credit-card/low-rate"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/business/credit-cards/BusinessVantage-Credit-Card_261x166.jpg",
+            "title": "BusinessVantage credit card"
+          }
+        ]
+      },
+      {
+        "productId": "STGTrCompleteFreedom",
+        "lastUpdated": "2020-09-10T09:32:18Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Complete Freedom",
+        "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+        "brand": "St. George Bank",
+        "applicationUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+          "termsUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/complete-freedom"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/STG-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGTrRetirementAccess",
+        "lastUpdated": "2020-09-10T09:32:18Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Retirement Access Plus",
+        "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
+        "brand": "St. George Bank",
+        "applicationUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+          "termsUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/personal/STG-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCAmplifySignaturecardRewards",
+        "lastUpdated": "2020-09-10T09:32:16Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Rewards)",
+        "description": "Our most rewarding credit card",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/rewards/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_rewards_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCAmplifyPlatinumcardRewards",
+        "lastUpdated": "2020-09-10T09:32:16Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Rewards)",
+        "description": "An everyday rewards points credit card with insurance",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/rewards/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_qantas_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGCCAmplifySignaturecardFrequentFlyer",
+        "lastUpdated": "2020-09-10T09:32:16Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Frequent Flyer)",
+        "description": "Our most rewarding credit card",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/credit-cards/frequent-flyer/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.stgeorge.com.au/content/dam/stg/images/Personal/Credit_Card/stg-sp_credit-cards_category-page_rewards_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "STGSavBusBusinessAccessSaver",
+        "lastUpdated": "2020-09-10T07:55:40Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Access Saver",
+        "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/business-access-saver"
+        }
+      },
+      {
+        "productId": "STGSavIncentiveSaver",
+        "lastUpdated": "2020-09-10T07:55:39Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Incentive Saver",
+        "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/savings-accounts/incentive-saver"
+        }
+      },
+      {
+        "productId": "STGSavMaxiSaver",
+        "lastUpdated": "2020-09-10T07:55:39Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Maxi Saver",
+        "description": "Anytime access with our highest interest savings account product",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/personal/bank-accounts/savings-accounts/maxi-saver"
+        }
+      },
+      {
+        "productId": "STGTrBusSocietyChequeAccount",
+        "lastUpdated": "2020-09-10T07:55:37Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Society Cheque Account",
+        "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/society-cheque-account"
+        }
+      },
+      {
+        "productId": "STGTrBusBusinessChequeAccountPlus",
+        "lastUpdated": "2020-09-10T07:55:37Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Cheque Account Plus",
+        "description": "Complete everyday business bank account, ideal for businesses with a high number of transactions each month.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/business-cheque-account-plus"
+        }
+      },
+      {
+        "productId": "STGTrBusStatutoryTrustAccount",
+        "lastUpdated": "2020-09-10T07:55:37Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Statutory Trust Account",
+        "description": "Our Statutory Trust Accounts help you comply with statutory requirements.",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/statutory-trust-account",
+          "feesAndPricingUri": "https://www.stgeorge.com.au/content/dam/stg/downloads/business/bank-accounts/business_accounts_terms.pdf"
+        }
+      },
+      {
+        "productId": "STGTrBusFreedomBusinessAccount",
+        "lastUpdated": "2020-09-10T07:55:37Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Freedom Business Account",
+        "description": "Make your life easier with a dedicated business account",
+        "brand": "St. George Bank",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.stgeorge.com.au/business/bank-accounts/freedom-business-account"
+        }
+      },
+      {
+        "productId": "BSATrConcession",
+        "lastUpdated": "2020-09-10T07:47:09Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Concession ",
+        "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
+        "brand": "BankSA",
+        "applicationUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/concession-account",
+          "termsUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/BSA-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCBusAmplifyBusiness",
+        "lastUpdated": "2020-09-10T07:47:08Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Business",
+        "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/credit-card/rewards"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/business/credit-cards/BSA_Business-Amplify-credit-card_261x166.jpg",
+            "title": "Amplify Business credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCBusVISABusiness",
+        "lastUpdated": "2020-09-10T07:47:08Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "VISA Business",
+        "description": "The VISA Business Joint and several liability\\nwith a liability structure suitable for more complex small businesses.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/credit-card/low-rate"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/business/credit-cards/BSA_VISA-business-credit-card_261x166.jpg",
+            "title": "BusinessVantage credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BSATrRetirementAccess",
+        "lastUpdated": "2020-09-10T07:47:08Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Retirement Access Plus",
+        "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
+        "brand": "BankSA",
+        "applicationUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/retirement-access-plus",
+          "termsUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/BSA-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSATrCompleteFreedom",
+        "lastUpdated": "2020-09-10T07:47:08Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Complete Freedom ",
+        "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+        "brand": "BankSA",
+        "applicationUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/transaction-accounts/complete-freedom",
+          "termsUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf",
+          "feesAndPricingUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/BSA-card-art-app.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifyPlatinumcardRewards",
+        "lastUpdated": "2020-09-10T07:47:07Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Platinum card (Rewards)",
+        "description": "An everyday rewards points credit card with insurance",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/rewards/amplify-platinum"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_qantas_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCAmplifySignaturecardFrequentFlyer",
+        "lastUpdated": "2020-09-10T07:47:06Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Amplify Signature card (Frequent Flyer)",
+        "description": "Our most rewarding credit card",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/credit-cards/frequent-flyer/amplify-signature"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/personal/credit-cards/BSA-sp_credit-cards_category-page_rewards_356x175.jpg"
+          }
+        ]
+      },
+      {
+        "productId": "BSASavBusBusinessAccessSaver",
+        "lastUpdated": "2020-09-10T07:42:14Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Access Saver",
+        "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/business-access-saver"
+        }
+      },
+      {
+        "productId": "BSASavMaxiSaver",
+        "lastUpdated": "2020-09-10T07:42:13Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Maxi Saver",
+        "description": "Anytime access with our highest interest savings account product",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/savings-accounts/maxi-saver"
+        }
+      },
+      {
+        "productId": "BSASavIncentiveSaver",
+        "lastUpdated": "2020-09-10T07:42:13Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Incentive Saver",
+        "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/personal/bank-accounts/savings-accounts/incentive-saver"
+        }
+      },
+      {
+        "productId": "BSATrBusStatutoryTrustAccount",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Statutory Trust Account",
+        "description": "Our Statutory Trust Accounts help you comply with statutory requirements.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/statutory-trust-account",
+          "feesAndPricingUri": "https://www.banksa.com.au/content/dam/bsa/downloads/personal/bank-accounts/SavInvesTransAccounts_Terms.pdf"
+        }
+      },
+      {
+        "productId": "BSATrBusBusinessChequeAccountPlus",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business Cheque Account Plus",
+        "description": "Complete everyday business bank account, ideal for businesses with a high number of transactions each month.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/business-cheque-account-plus"
+        }
+      },
+      {
+        "productId": "BSATrBusSocietyChequeAccount",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Society Cheque Account",
+        "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/society-cheque-account"
+        }
+      },
+      {
+        "productId": "BSATrBusFreedomBusinessAccount",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Freedom Business Account",
+        "description": "Make your life easier with a dedicated business account and separate personal and Business account",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/freedom-business-account"
+        }
+      },
+      {
+        "productId": "SavBusCashResBonus",
+        "lastUpdated": "2020-09-04T07:49:15Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Business Cash Reserve Bonus",
+        "description": "Earn interest on your collected GST with a bonus interest rate when no withdrawals are made in a month.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/cash-reserve-bonus-interest/"
+        }
+      },
+      {
+        "productId": "CCAltPlatRewards",
+        "lastUpdated": "2020-09-04T06:28:49Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Platinum Card - Rewards",
+        "description": "A platinum rewards credit card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-platinum/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-fc_p_credit-cards_velocity_altitude-platinum-01_232x1461.png",
+            "title": "Altitude Platinum Velocity Card"
+          }
+        ]
+      },
+      {
+        "productId": "CCAltPlatQantas",
+        "lastUpdated": "2020-09-04T06:28:49Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Platinum Card - Qantas",
+        "description": "A platinum rewards credit card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-platinum/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-fc_p_credit-cards_velocity_altitude-platinum-01_232x1461.png",
+            "title": "Altitude Platinum Velocity Card"
+          }
+        ]
+      },
+      {
+        "productId": "CCBusChoiceRewardsPlat",
+        "lastUpdated": "2020-08-26T03:29:41Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "BusinessChoice Rewards Platinum Mastercard",
+        "description": "Use your Qantas Points to reward yourself, your staff or your family.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/credit-cards/rewards-cards/businesschoice-rewards/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/business/credit-cards/wbc_fc_b_credit-cards_bus-choice-rewards-visa_232x146.png",
+            "title": "BusinessChoice Rewards credit card"
+          }
+        ]
+      },
+      {
+        "productId": "HLVariableFlexiInvestmentPI",
+        "lastUpdated": "2020-08-26T03:27:25Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Flexi First Option Investment Loan Principal & Interest",
+        "description": "Flexi First Option Investment Home Loan gives investors a low variable rate with no fees for loan maintenance, redraw or setup",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan"
+        }
+      },
+      {
+        "productId": "HLVariableFlexiInvestmentIO",
+        "lastUpdated": "2020-08-26T03:27:25Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Flexi First Option Investment Loan Interest Only",
+        "description": "Flexi First Option Investment Home Loan gives investors a low variable rate with no fees for loan maintenance, redraw or setup",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-option-investment-homeloan"
+        }
+      },
+      {
+        "productId": "HLVariableFlexiOwnerOccupiedIO",
+        "lastUpdated": "2020-08-26T03:27:24Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Flexi First Option Home Loan Interest Only",
+        "description": "Flexi First Option is a basic home loan with a low variable rate, no fees for loan maintenance or redraw and no setup fee with principal & interest repayments.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan"
+        }
+      },
+      {
+        "productId": "HLVariableFlexiOwnerOccupiedPI",
+        "lastUpdated": "2020-08-26T03:27:24Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Flexi First Option Home Loan Principal & Interest",
+        "description": "Flexi First Option is a basic home loan with a low variable rate, no fees for loan maintenance or redraw and no setup fee with principal & interest repayments.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/first-home-loan"
+        }
+      },
+      {
+        "productId": "PLFlexi",
+        "lastUpdated": "2020-08-18T08:50:53Z",
+        "productCategory": "PERS_LOANS",
+        "name": "Flexi Loan",
+        "description": "An ongoing line of credit facility you can access when you need to, without having to reapply.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://banking.westpac.com.au/oregon/flexiloan/pol/ac/appCapture?funcReqd=NewAppl&exitapp=yes#/welcome",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/personal-loans/flexi-loan/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Flexi_Loan_Conditions.pdf",
+          "eligibilityUri": "https://banking.westpac.com.au/oregon/flexiloan/pol/ac/appCapture?funcReqd=NewAppl&exitapp=yes#/welcome",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/personal-loans/flexi-loan/"
+        }
+      },
+      {
+        "productId": "CCBusLowRate",
+        "lastUpdated": "2020-08-18T04:44:47Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "BusinessChoice Everyday Mastercard",
+        "description": "A low interest rate on all your everyday business purchases.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/credit-cards/low-rate-card/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/business/credit-cards/wbc_fc_b_credit-cards_bus-choice-everyday-visa_232x146.png",
+            "title": "BusinessChoice Everyday low rate credit card"
+          }
+        ]
+      },
+      {
+        "productId": "CCAmexAltPlat",
+        "lastUpdated": "2020-08-18T04:44:47Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "American Express Westpac Altitude Platinum Card",
+        "description": "Westpac's co-branded Platinum Card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/americanexpress/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-clp_p_credit-cards_amex-alt-plat-bundle_356x200.jpg",
+            "title": "American Platinum Bundle Card"
+          }
+        ]
+      },
+      {
+        "productId": "CCAltBusGold",
+        "lastUpdated": "2020-08-18T04:44:46Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Business Gold Mastercard",
+        "description": "A wealth of reward point options & purchase protections.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/credit-cards/rewards-cards/altitude-gold/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/business/credit-cards/wbc_fc_b_credit-cards_alt-business-gold-visa_232x146.png",
+            "title": "Altitude Business Gold Mastercard"
+          }
+        ]
+      },
+      {
+        "productId": "CCAltBusPlat",
+        "lastUpdated": "2020-08-18T04:44:46Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Business Platinum Mastercard",
+        "description": "Uncapped rewards points & complimentary platinum insurance covers",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/credit-cards/rewards-cards/altitude-platinum/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/business/credit-cards/wbc_fc_b_credit-cards_alt-business-platinum-visa_232x146.png",
+            "title": "Altitude Business Platinum Mastercard"
+          }
+        ]
+      },
+      {
+        "productId": "CCAltBlackQantas",
+        "lastUpdated": "2020-08-18T04:44:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Black Card - Qantas",
+        "description": "Westpac's most rewarding card offering you a great rewards program ? Altitude Qantas - with uncapped points, premium travel and lifestyle services.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-black/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-fc_p_credit-cards_reward_altitude-black-01_232x146.png",
+            "title": "Altitude Black World Mastercard"
+          }
+        ]
+      },
+      {
+        "productId": "CCAltBlackRewards",
+        "lastUpdated": "2020-08-18T04:44:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Altitude Black Card - Reward",
+        "description": "Westpac's most rewarding card offering you a great rewards program ? Altitude Rewards - with uncapped points, premium travel and lifestyle services.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-black/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-fc_p_credit-cards_reward_altitude-black-01_232x146.png",
+            "title": "Altitude Black World Mastercard"
+          }
+        ]
+      },
+      {
+        "productId": "CCLowFeePlat",
+        "lastUpdated": "2020-08-18T04:44:43Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Low Fee Platinum",
+        "description": "Enjoy complimentary insurance and up to 55 days interest free on purchases. ",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/low-fee/low-fee-platinum-card/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-pp_p_credit-cards_low-annual-fee-platinum_232x146.png",
+            "title": "Low Fee Platinum credit card"
+          }
+        ]
+      },
+      {
+        "productId": "CCLowFee",
+        "lastUpdated": "2020-08-18T04:44:43Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Low Fee Card",
+        "description": "A straightforward credit card with no annual card fee in the first year and up to 55 days interest free on purchases.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/low-fee/low-fee-card/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc_pp_p_credit-cards_low-annual-fee_232x146.png",
+            "title": "Low Fee credit card"
+          }
+        ]
+      },
+      {
+        "productId": "HLFixedOwnerOccupiedIO",
+        "lastUpdated": "2020-08-12T10:24:59Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Options Home Loan Interest Only",
+        "description": "Our Fixed Options Home Loan has a fixed interest rate and set repayments that won't change during the fixed term so you can lock in certainty.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan"
+        }
+      },
+      {
+        "productId": "HLFixedOwnerOccupiedPI",
+        "lastUpdated": "2020-08-12T10:24:58Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Options Home Loan Principal & Interest",
+        "description": "Our Fixed Options Home Loan has a fixed interest rate and set repayments that won't change during the fixed term so you can lock in certainty.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-home-loan"
+        }
+      },
+      {
+        "productId": "CCAmexAltBlack",
+        "lastUpdated": "2020-08-06T07:52:45Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "The American Express Westpac Altitude Black Card",
+        "description": "Westpac's co-branded Black Card offering you Westpac?s highest points earn rates, additional lounge passes, access to American Express benefits and much more.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/americanexpress/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc-clp_p_credit-cards_amex-alt-black-bundle_356x200.jpg",
+            "title": "Altitude Black Bundle Card"
+          }
+        ]
+      },
+      {
+        "productId": "CCLowRate",
+        "lastUpdated": "2020-08-06T07:52:41Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Low Rate Card",
+        "description": "Our Low Rate Card provides a low interest purchase rate plus a low annual card fee to help trim your credit card costs.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/low-rate-cards/low-rate/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc_pp_p_credit-cards_low%20rate_300x190.jpg",
+            "title": "Low Rate Card"
+          }
+        ]
+      },
+      {
+        "productId": "CCLite",
+        "lastUpdated": "2020-08-06T07:52:41Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "Westpac Lite Card",
+        "description": "Shopping online or travelling overseas? Pay no foreign transaction fees and get our lowest purchase rate with the Westpac Lite Card.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/credit-cards/low-rate-cards/westpac-lite-card/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/credit-cards/wbc_fc_p_credit-cards_low-rate_lite-credit-card_232x146.png",
+            "title": "Westpac Lite Card"
+          }
+        ]
+      },
+      {
+        "productId": "TrChoiceConcession",
+        "lastUpdated": "2020-08-06T07:45:38Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for concession holders",
+        "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/basic/"
+        }
+      },
+      {
+        "productId": "SavLife",
+        "lastUpdated": "2020-07-14T08:16:49Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Life",
+        "description": "Westpac Life could help you reach your savings goals sooner by earning bonus interest every month you save.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/savings-accounts/life/"
+        }
+      },
+      {
+        "productId": "HLVariableOffsetOwnerOccupiedIO",
+        "lastUpdated": "2020-07-14T08:15:36Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Home Loan with Offset Interest Only",
+        "description": "Get a variable rate, make unlimited extra repayments with no associated break costs and save interest on your home loan balance with an optional offset account.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/"
+        }
+      },
+      {
+        "productId": "HLFixedInvestmentPI",
+        "lastUpdated": "2020-07-14T08:15:34Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Principal & Interest",
+        "description": "",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/"
+        }
+      },
+      {
+        "productId": "HLFixedInvestmentIO",
+        "lastUpdated": "2020-07-14T08:15:34Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Fixed Rate Investment Property Loan Interest Only",
+        "description": "",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/fixed/fixed-rate-home-loan/"
+        }
+      },
+      {
+        "productId": "TrChoiceStudent",
+        "lastUpdated": "2020-07-01T23:35:20Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Student bank account & debit card",
+        "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/tertiary-student/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc_p_bank-accounts_transaction_choice_tertiary-student_isic_232x146.png",
+            "title": "Westpac Student Discount Card"
+          }
+        ]
+      },
+      {
+        "productId": "TrChoiceU21",
+        "lastUpdated": "2020-07-01T23:35:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for Under 21s",
+        "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/under-21/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
+            "title": "Westpac Youth Bank Debit card"
+          }
+        ]
+      },
+      {
+        "productId": "TrChoice",
+        "lastUpdated": "2020-07-01T23:35:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice",
+        "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
+            "title": "Westpac Choice Debit card"
+          }
+        ]
+      },
+      {
+        "productId": "TravelMoneyCard",
+        "lastUpdated": "2020-06-29T23:20:37Z",
+        "productCategory": "TRAVEL_CARDS",
+        "name": "Travel money card",
+        "description": "A reloadable prepaid Visa money card that lets you lock in exchange rates in advance and can be used to make payments in 180+ countries with no load or reload fees.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/international-travel/travel-money-card/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/travel-centre/wbc-fc_p_travel-centre_travel-money-card_curriencies_232x146.png",
+            "title": "Westpac Travel Money Card"
+          }
+        ]
+      },
+      {
+        "productId": "WestpacBusinessOneLoan",
+        "lastUpdated": "2020-06-26T06:50:37Z",
+        "productCategory": "OVERDRAFTS",
+        "name": "Westpac Business One Loan",
+        "description": "For business loans over $250,000, the Westpac Business One Loan provides a flexible line of credit with full transaction access.",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/commercial-loans/business-one-loan/"
+        }
+      },
+      {
+        "productId": "BusinessOverdraft",
+        "lastUpdated": "2020-06-26T06:50:37Z",
+        "productCategory": "OVERDRAFTS",
+        "name": "Business Overdraft",
+        "description": "Provides cash flow relief with funds to cover business expenses, such as invoices and wages until you?re paid.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-overdraft/"
+        }
+      },
+      {
+        "productId": "BusinessEquityAccessLoan",
+        "lastUpdated": "2020-06-26T06:50:34Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Business Equity Access Loan",
+        "description": "A Business Equity Access Loan is a line of credit or a loan, secured against residential or commercial property. Use for investing, expanding, refinancing or covering everyday operating expenses.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-equity-access-loan/"
+        }
+      },
+      {
+        "productId": "InsurancePremiumFinance",
+        "lastUpdated": "2020-06-26T06:50:31Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Insurance Premium Finance",
+        "description": "Short-term business finance that lets you spread a lump sum annual insurance premium across monthly instalments",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/insurance-premium-finance/"
+        }
+      },
+      {
+        "productId": "InvoiceFinance",
+        "lastUpdated": "2020-06-26T06:50:30Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Invoice Finance",
+        "description": "Improve business cash flow by accessing up to 85% of unpaid invoices owed to you. ",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/commercial-loans/invoice-finance/"
+        }
+      },
+      {
+        "productId": "AgriFinance",
+        "lastUpdated": "2020-06-26T06:50:30Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Westpac Agri Finance",
+        "description": "For business loans over $250,000, Westpac Agri Finance is a fixed or variable rate loan with features designed for primary producers. ",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/agrifinance/agri-finance/"
+        }
+      },
+      {
+        "productId": "BankGuarantee",
+        "lastUpdated": "2020-06-26T06:50:30Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Bank Guarantee",
+        "description": "Grow your business by providing your suppliers and vendors with certainty of payment. ",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/bank-guarantee/"
+        }
+      },
+      {
+        "productId": "BankBillBusinessLoan",
+        "lastUpdated": "2020-06-26T06:50:29Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Bank Bill Business Loan",
+        "description": "Our most flexible loan for businesses looking to borrow more than $250,000 for acquisitions, capital investment or refinancing.",
+        "brand": "Westpac",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/commercial-loans/bank-bill-business-loan/"
+        }
+      },
+      {
+        "productId": "SecuredBusinessLoan",
+        "lastUpdated": "2020-06-26T06:50:29Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Secured Business Loan",
+        "description": "Borrow from $20,000 with a Westpac Business Loan. A fixed or variable rate business loan with flexible repayment options. Only pay interest on the amount you owe. ",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-loan/"
+        }
+      },
+      {
+        "productId": "ForeignCurrencyAccountBusiness",
+        "lastUpdated": "2020-06-25T06:07:48Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Foreign Currency Account Business",
+        "description": "A transaction account to make or receive payments in a foreign currency and/or  hold a foreign currency balance. Available in a range of foreign currencies.\nAvailable currencies are:United States Dollars (USD), Chinese Yuan RMB (CNY), Great Britain Pounds (GBP), Canadian Dollars (CAD), Danish Kroner (DKK), Euro (EUR), Hong Kong Dollars (HKD), Japanese Yen (JPY), New Zealand Dollars (NZD), Norwegian Kroner (NOK), Singapore Dollars (SGD), Swedish Kronor (SEK), Swiss Francs (CHF), Thailand Baht (THB), South African Rand (ZAR).\nThings you should know:This information does not take your personal objectives, circumstances or needs into account. Consider its appropriateness to these factors before acting on it. Read the disclosure documents for this product, including the Foreign Currency Account Terms & Conditions, International Products and Services Standard Fees and Online Banking Terms and Conditions, before deciding. This product is only available in Australia from Westpac Banking Corporation ABN 33 007 457 141 AFSL and Australian credit licence 233714.\nA Foreign Currency Account should not be used to speculate on foreign currencies or to conduct frequent trading of foreign currencies.A Foreign Currency Account is not an account to assist with travel needs. It cannot be linked to a Travel Money card and you cannot access your Foreign Currency Account through an ATM, either within Australia or overseas.\nYou cannot withdraw or deposit foreign notes or coins into a Foreign Currency Account.Deposits held in Foreign Currency Accounts are not covered by the Australian Government?s Financial Claims Scheme.Credit facilities are subject to application and Westpac's normal lending assessment criteria. Fees and charges may apply to the products and services listed. Full details of the Terms and Conditions for this product can be requested from Westpac.Payments received in a foreign currency require manual reconciliation to reflect the correct invoice status. BPAY is not available for invoices issued in a foreign currency. Payment of FCA invoices can be done using direct deposit via international transfer only.Credit balance fees are only applicable to clients who are determined by Westpac to be wholesale clients as defined under the Corporations Act. If Westpac determines that you are a wholesale client as defined under the Corporations Act, Westpac will notify you before applying a credit balance fee to your Foreign Currency Account.Interest paid by you to Westpac on negative balances (overdraft interest rates) - Debit interest is applicable to Foreign Currency Overdrafts attached to Foreign Currency Accounts. The debit interest rate applicable to the overdraft comprises a base rate plus a margin over the base rate agreed at the time the overdraft is established. You can refer to the following table for the current base rates. Overdraft base rates are variable and subject to change. Conditions, fees and normal lending criteria apply. More product details are available on request.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/foreign-currency-account/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/cb/foreigncurrencyaccount.pdf"
+        }
+      },
+      {
+        "productId": "ForeignCurrencyAccountPersonal",
+        "lastUpdated": "2020-06-25T06:07:47Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Foreign Currency Account Personal",
+        "description": "A transaction account to make or receive payments in a foreign currency and/or  hold a foreign currency balance. Available in a range of foreign currencies.\nAvailable currencies are:United States Dollars (USD), Chinese Yuan RMB (CNY), Great Britain Pounds (GBP), Canadian Dollars (CAD), Danish Kroner (DKK), Euro (EUR), Hong Kong Dollars (HKD), Japanese Yen (JPY), New Zealand Dollars (NZD), Norwegian Kroner (NOK), Singapore Dollars (SGD), Swedish Kronor (SEK), Swiss Francs (CHF), Thailand Baht (THB), South African Rand (ZAR).\nThings you should know:This information does not take your personal objectives, circumstances or needs into account. Consider its appropriateness to these factors before acting on it. Read the disclosure documents for this product, including the Foreign Currency Account Terms & Conditions, International Products and Services Standard Fees and Online Banking Terms and Conditions, before deciding. This product is only available in Australia from Westpac Banking Corporation ABN 33 007 457 141 AFSL and Australian credit licence 233714.\nA Foreign Currency Account should not be used to speculate on foreign currencies or to conduct frequent trading of foreign currencies.A Foreign Currency Account is not an account to assist with travel needs. It cannot be linked to a Travel Money card and you cannot access your Foreign Currency Account through an ATM, either within Australia or overseas.\nYou cannot withdraw or deposit foreign notes or coins into a Foreign Currency Account.Deposits held in Foreign Currency Accounts are not covered by the Australian Government?s Financial Claims Scheme.Credit facilities are subject to application and Westpac's normal lending assessment criteria. Fees and charges may apply to the products and services listed. Full details of the Terms and Conditions for this product can be requested from Westpac.Payments received in a foreign currency require manual reconciliation to reflect the correct invoice status. BPAY is not available for invoices issued in a foreign currency. Payment of FCA invoices can be done using direct deposit via international transfer only.Credit balance fees are only applicable to clients who are determined by Westpac to be wholesale clients as defined under the Corporations Act. If Westpac determines that you are a wholesale client as defined under the Corporations Act, Westpac will notify you before applying a credit balance fee to your Foreign Currency Account.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/foreign-currency-account/",
+          "termsUri": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/cb/foreigncurrencyaccount.pdf"
+        }
+      },
+      {
+        "productId": "StatutoryTrustAccount",
+        "lastUpdated": "2020-06-25T06:07:46Z",
+        "productCategory": "REGULATED_TRUST_ACCOUNTS",
+        "name": "Statutory Trust account",
+        "description": "Our Statutory Trust Accounts help you comply with statutory requirements.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/statutory-trust/"
+        }
+      },
+      {
+        "productId": "WestpacDIYSuperWorkingAccount",
+        "lastUpdated": "2020-06-25T06:07:45Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac DIY Super Working Account",
+        "description": "Westpac DIY Super Working account acts as the cash 'hub' to help you manage your investments and access your funds on a day-to-day basis",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/superannuation/self-managed-superannuation-accounts/self-managed-super-fund/"
+        }
+      },
+      {
+        "productId": "WestpacDIYSuperSavingAccount",
+        "lastUpdated": "2020-06-25T06:07:45Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac DIY Super Saving Account",
+        "description": "A Westpac product to be used with DIY working Account to hold your surplus fund",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/superannuation/self-managed-superannuation-accounts/self-managed-super-fund/"
+        }
+      },
+      {
+        "productId": "UnsecuredBusinessOverdraft",
+        "lastUpdated": "2020-06-25T06:07:42Z",
+        "productCategory": "OVERDRAFTS",
+        "name": "Unsecured Business Overdraft",
+        "description": "Now it?s quick and easy to apply for unsecured funds to expand your business.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/unsecured-business-overdraft/"
+        }
+      },
+      {
+        "productId": "EquityAccessLoan",
+        "lastUpdated": "2020-06-25T06:07:41Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Equity Access Loan",
+        "description": "Equity Access Loan is a revolving line of credit secured against your property.Use your equity to renovate, invest or to fund those great plans you've always had. When approved, your line of credit is ready to use when you need it including for unexpected expenses ",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/line-of-credit-loan/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/line-of-credit-loan/"
+        }
+      },
+      {
+        "productId": "SavComSolCashRes",
+        "lastUpdated": "2020-06-15T00:16:32Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Community Solutions Cash Reserve",
+        "description": "Earn interest on your surplus funds and access your funds anytime you need them.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/not-for-profit/community-cash-reserve/"
+        }
+      },
+      {
+        "productId": "SavComSolCashResBonus",
+        "lastUpdated": "2020-06-15T00:16:32Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Community Solutions Cash Reserve Bonus",
+        "description": "An online-only savings account that rewards community groups and NFPs with a bonus interest rate when no withdrawals are made in a month",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/not-for-profit/community-cash-reserve-bonus-interest/"
+        }
+      },
+      {
+        "productId": "TrComSolOne",
+        "lastUpdated": "2020-06-15T00:16:31Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Community Solutions One",
+        "description": "Everyday transaction account specially designed for not-for-profit organisations, with no monthly service fee",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/not-for-profit-community-cheque/"
+        }
+      },
+      {
+        "productId": "TrBusOneFlexi",
+        "lastUpdated": "2020-05-26T07:14:19Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business One - Flexi ",
+        "description": "A pay as you go account with no monthly service fee, for businesses that make a low number of transactions",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/flexi-account/"
+        }
+      },
+      {
+        "productId": "HLVariableOffsetInvestmentIO",
+        "lastUpdated": "2020-04-28T04:52:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Investor Home Loan with Offset Interest Only",
+        "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/"
+        }
+      },
+      {
+        "productId": "HLBridgingOption",
+        "lastUpdated": "2020-04-28T04:52:47Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Bridging Home Loan",
+        "description": "Apart from buying an existing property, bridging loans are also an option if you want to stay in your current property while you build a new property. It saves you the hassle of selling your property and renting somewhere short-term, not to mention having to pay for the costs of moving twice.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/next-home/bridging-loan/?searchsource=search-results&kw=bridging%20home%20loan&cat=other&rank=3&result-type=natural"
+        }
+      },
+      {
+        "productId": "HLVariableOffsetOwnerOccupiedPI",
+        "lastUpdated": "2020-04-28T04:52:46Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Home Loan with Offset Principal & Interest",
+        "description": "Own your home sooner with our Rocket Repay Home Loan and optional linked offset account.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/mortgage-offset-accounts/"
+        }
+      },
+      {
+        "productId": "HLVariableOffsetInvestmentPI",
+        "lastUpdated": "2020-04-28T04:52:46Z",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "name": "Variable Investor Home Loan with Offset Principal & Interest",
+        "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
+        "brand": "Westpac",
+        "brandName": "Westpac",
+        "applicationUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "termsUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "eligibilityUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/",
+          "feesAndPricingUri": "https://www.westpac.com.au/personal-banking/home-loans/variable/investment-home-loan/"
+        }
+      },
+      {
+        "productId": "SavBusCashRes",
+        "lastUpdated": "2019-12-06T02:42:59Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Business Cash Reserve",
+        "description": "Earn interest on your collected GST and access your funds anytime you need them with our most popular business online savings account",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/savings-accounts/cash-reserve/"
+        }
+      },
+      {
+        "productId": "TrBusOneHigh",
+        "lastUpdated": "2019-10-29T00:54:00Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business One - High Plan",
+        "description": "Ideal for businesses that transact frequently ",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/business-one-high-plan/"
+        }
+      },
+      {
+        "productId": "SavBump",
+        "lastUpdated": "2019-10-25T03:54:56Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Bump Savings",
+        "description": "An account designed to help children kick start their savings. Available for under 18s.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/savings-accounts/bump/"
+        }
+      },
+      {
+        "productId": "TrBusOneLow",
+        "lastUpdated": "2019-08-26T00:27:23Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Business One - Low Plan",
+        "description": "Our most popular everyday business banking transaction account",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/bank-accounts/one-account/"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "totalRecords": 223,
+    "totalPages": 1
+  },
+  "links": {
+    "self": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page-size=223",
+    "first": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page=1&page-size=223",
+    "last": "https://digital-api.westpac.com.au/cds-au/v1/banking/products?page=1&page-size=223"
+  }
+}
