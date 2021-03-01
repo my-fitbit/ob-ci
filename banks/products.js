@@ -67,7 +67,7 @@ function printProducts(responseDataInJson, bankName) {
       description,
       category
     }
-
+    }
     if (i == prodCount - 1) {
       productId_0 = "Last Screen on APP"
       name_0 = bankName + " products !" // This is the first screen of APP, shall have bank name
