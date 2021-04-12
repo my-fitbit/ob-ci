@@ -83,7 +83,7 @@ function printProducts(responseDataInJson, bankName) {
 
       productId_n = "Last Screen"
       name_n = "Disclaimer !!"
-      description_n = "The content of this app is provided for information purposes only.\n\nThe open data available from this app is intended as a general reference source. Users are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app."
+      description_n = "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app."
       category_n = "Type of Products"
 
       // Add this to end of the array //push
