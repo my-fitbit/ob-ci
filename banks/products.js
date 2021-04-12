@@ -46,37 +46,35 @@ function printProducts(responseDataInJson, bankName) {
   //GET products has this response . total number of records / products
   var prodCount = responseDataInJson.meta.totalRecords;
   var totalPages = responseDataInJson.meta.totalPages;
-
   // console.log(bankName + "  as on : " + now.getLocalDateAndTime_AU() + "\ntotalRecords: " + prodCount + "\ntotalPages: " + totalPages);
 
-  var products = [];
+  var products1 = [];
   var j = 0;
-  
   for (var i = 0; i < prodCount; i++) {
-    //only filtring TRANSACTIONS and SAVINGS Accounts to for smart json
     if (responseDataInJson.data.products[i].productCategory === "TRANS_AND_SAVINGS_ACCOUNTS") {
-    // console.log("\n\n ----------" + i + "--------- \n\n ");
-    var productId = responseDataInJson.data.products[i].productId;
-    var name = responseDataInJson.data.products[i].name;
-    var description = responseDataInJson.data.products[i].description;
-    var category = responseDataInJson.data.products[i].productCategory;
+      // console.log("\n\n ----------" + i + "--------- \n\n ");
+      var productId = responseDataInJson.data.products[i].productId;
+      var name = responseDataInJson.data.products[i].name;
+      var description = responseDataInJson.data.products[i].description;
+      var category = responseDataInJson.data.products[i].productCategory;
 
-    products[j++] = {
-      productId,
-      name,
-      description,
-      category
+      products1[j++] = {
+        productId,
+        name,
+        description,
+        category
+      }
     }
-    }
+
     if (i == prodCount - 1) {
       productId_0 = "Last Screen on APP"
-      name_0 = bankName + " products !" // This is the first screen of APP, shall have bank name
-      // description_0 = "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : lastUpdatedTime"
-      description_0 = "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : " + now.getLocalDateAndTime_AU()
+      name_0 = bankName + " Products !\nTransaction & Savings Accounts" // This is the first screen of APP, shall have bank name
+      description_0 = "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : " + now.getLocalDateAndTime_AU_DD_MMM_YYY() + "\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right"
+
       category_0 = "Type of Accounts"
 
       // Add this to begining of array
-      products.unshift({
+      products1.unshift({
         'productId': productId_0,
         'name': name_0,
         "description": description_0,
@@ -84,47 +82,25 @@ function printProducts(responseDataInJson, bankName) {
       })
 
       productId_n = "Last Screen"
-      name_n = "-- About App --"
-      description_n = "Hope you enjoyed " + bankName + " product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays products offered by " + bankName + " Bank (Australia).\n\nData is provided available as per Consumer Data Right (ACCC), Australia (alos known as Open Banking).\n\nList of products displayed may not contain all the products currently offered by the bank.\n\Hence, for making any financial decision always go to : https://www." + bankName + ".com.au/"
+      name_n = "Disclaimer !!"
+      description_n = "The content of this app is provided for information purposes only.\n\nThe open data available from this app is intended as a general reference source. Users are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app."
       category_n = "Type of Products"
 
-      // Add this to end of the array
-      products.push({
+      // Add this to end of the array //push
+      products1.unshift({
         'productId': productId_n,
         'name': name_n,
         "description": description_n,
         "category": category_n
       })
-
-      // description_n = "Enjoy the " + bankName + " Product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays products offered by " + bankName + " Bank (Australia).\n\nData is provided available as per Consumer Data Right (ACCC), Australia (alos known as Open Banking).\n\nImportant Note: List of products may not contain all the products offered by the bank.\n\Hence, for making any financial decision always go to : https://www." + bankName + ".com.au/.\n\nDisclaimer: Developer of this app does not accept any liability for information contained in this app."
-
-      productId_n_1 = "Last Screen final"
-      name_n_1 = "-- Disclaimer --"
-      // description_n_1 = "The information provided by the developer of this app is for general  does not accept any liability for information contained in this app."
-      description_n_1 = "The information provided by the developer of this app is for general informational purposes only and is provided in good faith.However we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information displayed."
-      category_n_1 = "Type of Products final"
-
-      //All writers’ opinions are their own and do not constitute financial advice in any way whatsoever. Nothing published by CoinDesk constitutes an investment recommendation, nor should any data or Content published by CoinDesk be relied upon for any investment activities.
-
-      //CoinDesk strongly recommends that you perform your own independent research and/or speak with a qualified investment professional before making any financial decisions.
-
-      // Add this to end of the array
-      products.push({
-        'productId': productId_n_1,
-        'name': name_n_1,
-        "description": description_n_1,
-        "category": category_n_1
-      })
-
-
     }
   }
 
   var filename = "./opt/PRODUCTS/" + bankName + "/fitbit/products.json";
 
   /* Format the response as desired by fitbit companion*/
-  var productReadyForFitbit = "{\"products\":" + JSON.stringify(products, null, 2) + "}";
-
+  var productReadyForFitbit = "{\"products\":" + JSON.stringify(products1, null, 2) + "}";
+  
   fs.writeFileSync(filename, productReadyForFitbit, {
     flag: 'w'
   }, function(err) {
