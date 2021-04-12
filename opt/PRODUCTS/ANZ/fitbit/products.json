@@ -1,21 +1,27 @@
 {"products":[
   {
+    "productId": "Last Screen",
+    "name": "Disclaimer !!",
+    "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
+    "category": "Type of Products"
+  },
+  {
     "productId": "Last Screen on APP",
-    "name": "ANZ products !",
-    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : Wed, Feb 17, 2021, 1:16 AM",
+    "name": "ANZ Products !\nTransaction & Savings Accounts",
+    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : 12 Apr 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
     "category": "Type of Accounts"
   },
   {
-    "productId": "3a86f9e4-1b41-4222-9091-5934d1fc9178",
-    "name": "ANZ Fixed Loan (without Breakfree Package)",
-    "description": "The certainty of fixed repayments",
-    "category": "RESIDENTIAL_MORTGAGES"
+    "productId": "9b385be6-5675-4750-9d94-60101e394a23",
+    "name": "ANZ Cash Investment Account",
+    "description": "A simple account that lets you transact, trade and settle with your own cash.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "3fb9e10c-6560-4471-83bc-c5edf92ebeef",
-    "name": "ANZ Fixed Loan (with Breakfree Package)",
-    "description": "The certainty of fixed repayments. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts",
-    "category": "RESIDENTIAL_MORTGAGES"
+    "productId": "ef5d9d5e-f822-4e9f-8b95-f0683115539f",
+    "name": "ANZ SMSF Cash Hub Account",
+    "description": "Self managed super is easier than ever, with all you need to use, move and manage your SMSF cash in one place.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
     "productId": "78df30d3-62c7-448d-b8ed-5da59894eb79",
@@ -48,46 +54,10 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "1144a74f-dac2-4db9-ac6a-5ff2e4abd784",
-    "name": "ANZ Business Loan",
-    "description": "With a choice of repayment options, our Business Loan lets you handpick the solutions that suit your business best",
-    "category": "BUSINESS_LOANS"
-  },
-  {
     "productId": "175698f7-1e2a-63ec-4c24-868fc21d087b",
     "name": "ANZ Business Advantage",
     "description": "A simple, low-cost business account that gives you easy access to your money via ANZ Internet banking, ATMs and branches.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "29d276fc-e46f-4302-a04b-cda03fe31e76",
-    "name": "ANZ Business Overdraft",
-    "description": "Need help with cash flow? Our overdrafts offer flexible payment options and provide you with peace of mind.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "520c8ae2-276c-4678-8f72-5367c80d830f",
-    "name": "ANZ Business Mortgage",
-    "description": "With a choice of repayment options, our Business Mortgage lets you handpick the solutions that suit your business best",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "544ad5cb-7e52-4a30-b1d7-a080abafbfac",
-    "name": "ANZ Simplicity PLUS Loan",
-    "description": "If you want a competitive variable rate loan and you only need basic features, consider ANZ Simplicity PLUS. It's a simple loan with no monthly fee that still gives you the flexibility to make extra repayments to pay it off sooner.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "f71660e7-51a9-4029-b4d0-39d09489d7bc",
-    "name": "ANZ Standard Variable Loan (without Breakfree Package)",
-    "description": "The flexibility you need. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "fbcfd277-25c3-44c0-94ad-5c4cf028e2ce",
-    "name": "ANZ Standard Variable Loan (with Breakfree Package)",
-    "description": "The flexibility you need. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
-    "category": "RESIDENTIAL_MORTGAGES"
   },
   {
     "productId": "79c2b4dd-7c4d-4f06-b8b4-874eb2178e31",
@@ -96,21 +66,9 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "033bead6-d89a-439b-901f-bc0631cf2c31",
-    "name": "ANZ Statutory Trust Account",
-    "description": "A specialised trust account for real estate agents, conveyancers and solicitors to hold funds in trust for your clients",
-    "category": "REGULATED_TRUST_ACCOUNTS"
-  },
-  {
     "productId": "a8233e0a-9552-1e7e-3847-1bff290266ef",
     "name": "ANZ Business Online Saver",
     "description": "Online business investment account that's linked to your everyday account",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "9b385be6-5675-4750-9d94-60101e394a23",
-    "name": "ANZ Cash Investment Account",
-    "description": "A simple account that lets you transact, trade and settle with your own cash.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -120,124 +78,16 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "2d41a5d3-0c8d-d5e9-cadc-195410627e08",
-    "name": "ANZ Advance Notice Term Deposit",
-    "description": "Enjoy the certainty of fixed returns over the investment term of your choice",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "37912a9e-dbec-41f8-b4ab-ddcd963f0121",
-    "name": "ANZ Equity Manager (with Breakfree Package)",
-    "description": "Line of credit secured by your property. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "3ed59e50-572d-4883-ad0a-2282c786506e",
-    "name": "ANZ Equity Manager (without Breakfree Package)",
-    "description": "Line of credit that helps you turn the equity in your home into money you can actually use. You'll be able to access it any time, just like an everyday banking account.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "1f9a67ea-8fda-cab0-e9d3-7ab9d0627545",
-    "name": "ANZ First",
-    "description": "A simple everyday credit card with a low ongoing annual fee",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "28c4afac-12e0-2ac2-7091-e62dfdccfe53",
-    "name": "ANZ Rewards Travel Adventures",
-    "description": "Get ready for your next adventure with the credit card that gets you travelling",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "325e19d1-2a52-53c6-073e-4b01e86e6936",
-    "name": "ANZ Frequent Flyer Black",
-    "description": "Our most rewarding Qantas experience",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "4cfce209-2f9c-e506-0dd6-7de6bd04e6d6",
-    "name": "ANZ Platinum",
-    "description": "A simple everyday credit card with $0 annual fee in the first year and complimentary insurances (conditions and exclusions apply)",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "6396b1bd-1c47-9c28-59b8-6847f208a9a7",
-    "name": "ANZ Rewards Black",
-    "description": "Our highest Reward Points earning potential",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "d8101ca7-369f-f465-27f6-50f388c81b3a",
-    "name": "ANZ Frequent Flyer Platinum",
-    "description": "Earn Qantas Points on everyday purchases with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "f60fb83e-bbfb-abe3-07e2-f70acf7e30ca",
-    "name": "ANZ Rewards Platinum",
-    "description": "Be rewarded for your everyday purchases and access a flexible Rewards program with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "4438b7ed-e889-1ff0-4599-4524d5f55ae3",
-    "name": "ANZ Term Deposit",
-    "description": "Enjoy the security of a fixed rate of interest over the investment term of your choice.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "4740c27d-eb72-375d-2d25-ad256ed37b1e",
-    "name": "ANZ Business Notice Term Deposit",
-    "description": "Business term deposit with flexible terms requiring 31 days notice of withdrawal (fees apply)",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "ef5d9d5e-f822-4e9f-8b95-f0683115539f",
-    "name": "ANZ SMSF Cash Hub Account",
-    "description": "Self managed super is easier than ever, with all you need to use, move and manage your SMSF cash in one place.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
     "productId": "f9ec7ae4-f606-0e91-9403-d6ce664eb765",
     "name": "ANZ Pensioner Advantage Account",
     "description": "Basic account for recipients of eligible Centrelink or Veterans' Affairs pension or allowance",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "b4f9f303-2634-4b0d-94c5-84b6a8395920",
-    "name": "ANZ Variable Rate Personal Loan",
-    "description": "Whether you're looking to buy a new car, take a holiday, renovate your home or you want to consolidate debt, we could help you with an ANZ Variable Rate Personal Loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "cbb832c8-9f1e-443f-99ed-da407a384f86",
-    "name": "ANZ Fixed Rate Personal Loan",
-    "description": "Get what you want with the certainty of fixed repayments",
-    "category": "PERS_LOANS"
-  },
-  {
     "productId": "9ee28889-8f88-4299-358c-c485bbedd6db",
     "name": "ANZ Business Premium Saver",
     "description": "Business account with competitive interest on business savings",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "5c365bbc-25c8-4c1b-b8f1-eff3056a37a1",
-    "name": "ANZ Personal Overdraft",
-    "description": "Extra cash whenever you need it",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "bb9843cd-bb64-41ac-bee4-f203b51acce2",
-    "name": "ANZ Asset Finance",
-    "description": "With ANZ equipment finance, you can get the tools and machinery your business needs, with the option of tailoring your repayments to suit your cash flow",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "f6527f3e-4f82-4b6e-a4dc-32cf5f4f32a8",
-    "name": "ANZ Assured Overdraft",
-    "description": "When you need that little bit extra to cover unexpected expenses",
-    "category": "OVERDRAFTS"
   },
   {
     "productId": "966088bd-e7f8-0422-ecb0-3f107f581dac",
@@ -256,65 +106,5 @@
     "name": "ANZ Access Advantage",
     "description": "An everyday account with easy and secure banking, unlimited ANZ Transactions and Visa Debit card",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "777afd5b-4bd2-b4a8-5e79-e6021da7021c",
-    "name": "ANZ Business Rewards Options",
-    "description": "A credit card facility for businesses where you can earn rewards on eligible transactions",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "7c277163-1b71-d314-0f1f-b7e713b5eaf4",
-    "name": "ANZ Rewards",
-    "description": "Be rewarded for your everyday purchases and have the flexibility to redeem points for rewards ranging from gift cards to cashback and travel",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "7c74f4ae-4965-08a0-c5c0-7bf2c677269b",
-    "name": "ANZ Low Rate",
-    "description": "A credit card with a low ongoing interest rate for your everyday purchases",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "9836ae54-5aa3-54cf-e1df-9c7aec8ddb08",
-    "name": "ANZ Business Black",
-    "description": "A credit card facility for businesses where you can earn rewards on eligible transactions and receive overseas travel and medical insurance",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "bb5ba0ed-7973-ef88-048e-52baeda32c98",
-    "name": "ANZ Visa Purchasing & Corporate Cards",
-    "description": "Credit cards to manage business purchases and expenses",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "ca69da6f-d4e9-ba91-1aba-41fa429f031e",
-    "name": "ANZ Business Low Rate",
-    "description": "A credit card facility for businesses with a low interest ongoing interest rate",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "e51a2957-8520-ca83-be3c-9e46512e4fba",
-    "name": "ANZ Frequent Flyer",
-    "description": "Earn Qantas Points on your everyday purchases",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "f673c6f6-b10a-282a-7484-32443c848f69",
-    "name": "ANZ Business 55 Interest Free Days",
-    "description": "A credit card facility for businesses with up to 55 days interest free on purchases (if you pay your closing balance in full by the due date each month)",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "Last Screen",
-    "name": "-- About App --",
-    "description": "Hope you enjoyed ANZ product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays products offered by ANZ Bank (Australia).\n\nData is provided available as per Consumer Data Right (ACCC), Australia (alos known as Open Banking).\n\nList of products displayed may not contain all the products currently offered by the bank.\nHence, for making any financial decision always go to : https://www.ANZ.com.au/",
-    "category": "Type of Products"
-  },
-  {
-    "productId": "Last Screen final",
-    "name": "-- Disclaimer --",
-    "description": "The information provided by the developer of this app is for general informational purposes only and is provided in good faith.However we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information displayed.",
-    "category": "Type of Products final"
   }
 ]}

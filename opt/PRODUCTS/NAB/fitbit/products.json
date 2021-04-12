@@ -1,8 +1,14 @@
 {"products":[
   {
+    "productId": "Last Screen",
+    "name": "Disclaimer !!",
+    "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
+    "category": "Type of Products"
+  },
+  {
     "productId": "Last Screen on APP",
-    "name": "NAB products !",
-    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : Wed, Feb 17, 2021, 1:16 AM",
+    "name": "NAB Products !\nTransaction & Savings Accounts",
+    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : 12 Apr 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
     "category": "Type of Accounts"
   },
   {
@@ -10,36 +16,6 @@
     "name": "NAB Wealth Builder",
     "description": "The NAB Wealth Builder is a savings account designed for easy ongoing management of your deposits, making it simpler to achieve savings goals, subject to committing to a notice period for withdrawals.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "084a4d49-6285-4f9d-911d-02a728cc3337",
-    "name": "NAB Equity Builder",
-    "description": "Grow your investments beyond property. Diversify and invest in financial assets with loans starting from $10K.",
-    "category": "MARGIN_LOANS"
-  },
-  {
-    "productId": "0979061d-8020-4c70-93f0-7b2c20bb4f12",
-    "name": "NAB Personal Loan",
-    "description": "With our unsecured personal loans, you can buy a new car, travel overseas, renovate your home, consolidate your debts and more.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "0b52a177-2ea0-4cbc-a51a-9e6e8656c26d",
-    "name": "nabtrade",
-    "description": "Use nabtrade for smarter, simpler online investing.",
-    "category": "TRADE_FINANCE"
-  },
-  {
-    "productId": "0c2ca397-dc24-4eb0-8fb9-e098c582ebd5",
-    "name": "NAB Low Rate Card",
-    "description": "Our lowest interest rate on purchases with no frills",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "10a55cba-f386-4448-b0f4-ed5e5e32098c",
-    "name": "NAB Trade Finance",
-    "description": "Meet your working capital needs with finance to help your export, import and domestic trade purposes.",
-    "category": "TRADE_FINANCE"
   },
   {
     "productId": "11662a88-dfad-489a-b1c0-d837ff49ea27",
@@ -60,52 +36,10 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "19fc62cc-2269-44de-93f6-12cce8e06b7a",
-    "name": "NAB Investment Term Deposits",
-    "description": "A NAB Investment Term Deposit is a fixed rate, fixed term deposit. NAB Investment Term Deposits are available to Corporate entities and Financial Institutions.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "1bf7152c-0395-4d93-8c01-72fab438df11",
-    "name": "NAB Foreign Currency Term Deposit",
-    "description": "Just because you’re not using your foreign currency, doesn’t mean it can’t work for you. Earn interest with a safe and flexible term deposit.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
     "productId": "24873cd3-7660-42b4-8e05-92b2c846a052",
     "name": "NAB Business Interest Account",
     "description": "A transaction account suitable for customers who maintain a high account balance and low transaction volume. Earn interest on a tiered basis on every dollar.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "263a9294-f2d8-4f5e-885c-363e1c2010b9",
-    "name": "NAB Qantas Rewards Premium Card",
-    "description": "Earn Qantas Points and enjoy platinum services and complimentary insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "27519275-6f3e-4ebe-a3b3-c78f1f871b55",
-    "name": "NAB Floating Deposits Account",
-    "description": "Your returns are reset in line with a floating reference rate, so you can enjoy returns that will be aligned with interest rate movements.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "2b01ecff-f783-4e88-b113-40819b5014c0",
-    "name": "NAB Farm Management Account Overdraft",
-    "description": "An overdraft on your farm account to help you manage your seasonal cash flow.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "2bd0b7d2-4a66-4e34-a7ca-566c6e24bf80",
-    "name": "Qantas Business Signature Card",
-    "description": "Get more from your business credit card purchases. Maximise your Qantas Points.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "2c8024bf-85bd-42c1-959b-6d19a0d0de92",
-    "name": "Invoice Finance",
-    "description": "Access money owed to you by your customers within one business day.",
-    "category": "BUSINESS_LOANS"
   },
   {
     "productId": "2d188a0a-4e27-4c0f-9a6c-2eccdf534f91",
@@ -114,148 +48,16 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "2e235120-2ac4-4715-b6a1-57f0a9efd50d",
-    "name": "NAB Business Vehicle & Equipment Loan",
-    "description": "The easy way to purchase vehicles or equipment. Keep money in your business with no upfront deposit.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "30b4cf39-05b0-43b4-9fbd-fd93f76588e1",
-    "name": "NAB Low Rate Platinum Card",
-    "description": "Our lowest interest rate on purchases with platinum services and complimentary insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "3195a729-255e-45e0-b180-b059119bcb8b",
-    "name": "NAB Low Fee Platinum Card",
-    "description": "Our lowest annual fee card with platinum services and complimentary insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "38962244-0d64-4d89-8bd7-59fbd01034c7",
-    "name": "NAB Hire Purchase",
-    "description": "Hire the vehicle or equipment your business needs with no upfront deposit and own it at the end of the hire period.",
-    "category": "LEASES"
-  },
-  {
-    "productId": "42fc1fb9-ebc5-49cf-abc4-2264307d9aa0",
-    "name": "NAB Novated Lease",
-    "description": "Choose the vehicle you want with salary packaging, providing a range of benefits for businesses and employees.",
-    "category": "LEASES"
-  },
-  {
-    "productId": "5e144df8-f660-4e71-a4f2-4f03288ea5e5",
-    "name": "NAB Business Support Loan",
-    "description": "Business loans up to $1 million to assist business customers impacted by COVID-19.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "5f5dfdb4-43b1-41e6-923e-546bb801e026",
-    "name": "NAB Business Card",
-    "description": "Manage your employee's business expenses by giving them their own charge card.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "61df032f-7fd4-492c-80ee-61ba3470d0cc",
-    "name": "NAB StraightUp Card",
-    "description": "No interest, late payment fees or foreign currency fees, just a simple monthly fee.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "65bcb7bd-e50c-4b65-b7d7-9d5abc089a5a",
-    "name": "NAB Tailored Home Loan",
-    "description": "Pay off your home loan sooner with our feature-packed, flexible home loan.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "6f4c64a7-01de-404a-b4ff-20fd2e0741c5",
-    "name": "NAB SMSF Cash Maximiser",
-    "description": "High interest account for SMSF customers to park their cash reserves.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "7205cdb5-d35f-4a61-93a2-0bae5698fc90",
-    "name": "Receivables Finance",
-    "description": "Easily access money owed by your customers within one business day and take control of your cash flow.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "74a3b3bc-af32-441c-b4cd-c38c8717fd56",
-    "name": "NAB QuickBiz Overdraft",
-    "description": "An unsecured business overdraft is a line of credit that you can easily access anytime.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "76a6fbec-0d25-4a57-b1e0-b30338a5d2f3",
-    "name": "NAB Term Deposit",
-    "description": "A fixed rate, fixed term investment, providing a secure return on funds, for each agreed term.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "86afb659-6632-464b-bf19-b8285c0ba2c2",
-    "name": "NAB Qantas Rewards Card",
-    "description": "Earn Qantas Points on your everyday spend",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "88e4d085-8981-4f5e-93d0-05609fd30efd",
-    "name": "NAB Business Overdraft",
-    "description": "Manage peaks and troughs in your cash flow with an overdraft on your transaction account, starting from $20K.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "8a47c774-0065-4850-992c-42d73253f3eb",
-    "name": "NAB Qantas Rewards Signature Card",
-    "description": "The Qantas Rewards Signature card gives customers the opportunity to be rewarded for the purchases they make by earning Qantas Frequent Flyer points at the fastest rate.\r\nIncludes Signature benefits, including complimentary insurances.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "965a7f64-167c-4b26-b8ab-06e90cdb3ff4",
-    "name": "NAB QuickBiz Loan",
-    "description": "Fast, unsecured business lending made easy, giving you access to funds to grow, run and invest in your business.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
     "productId": "9684c63c-223f-4166-ae1f-6d0f0018cbae",
     "name": "NAB Professional Funds Account",
     "description": "An 'at call', interest bearing deposit account for investors with at least $500,000 to invest.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "97038d41-f275-4e75-8e13-6cebfc859227",
-    "name": "NAB Personal Overdraft",
-    "description": "Access extra cash on the fly through your NAB transaction account up to an approved limit.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "98d30e6f-d7f1-4308-ba76-d5407ba10875",
-    "name": "NAB Statutory Trust Account",
-    "description": "A transaction account to keep your clients’ money in trust and meet your industry’s regulatory requirements.",
-    "category": "REGULATED_TRUST_ACCOUNTS"
-  },
-  {
     "productId": "9bf0e4ba-7cf3-479a-a940-54c2b736c955",
     "name": "NAB Corporate Cheque Account",
     "description": "A transaction account for Corporate, Institutional and large business customers.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "9d7046e7-ca0d-44ce-98d2-0ae80d9dcdd6",
-    "name": "NAB Super Lever",
-    "description": "A limited recourse margin loan designed specifically for Self Managed Super Funds who want to invest in shares and managed funds.",
-    "category": "MARGIN_LOANS"
-  },
-  {
-    "productId": "9dadec36-8e53-4b6d-8505-dc41a27d6e41",
-    "name": "NAB Dual Currency Investment",
-    "description": "The NAB Dual Currency Investment is a foreign exchange linked term instrument that is exposed to foreign exchange rate risk",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "a3336009-2afa-4713-9ad6-195a455520a0",
-    "name": "NAB Business Markets Loan",
-    "description": "Manage borrowing costs and protect your business against interest rate changes.",
-    "category": "BUSINESS_LOANS"
   },
   {
     "productId": "a97fad3e-9d44-4b4e-8279-3722edefae52",
@@ -276,22 +78,10 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "aea04112-8a33-4d90-991a-b30ad00699a8",
-    "name": "NAB Low Rate Business Card",
-    "description": "If you’re a small business, our low rate business credit card can help you manage your cash flow.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
     "productId": "afa21411-ef95-470e-9053-83d8cd33ddc6",
     "name": "NAB Cash Manager Account",
     "description": "Manage your investment cash flows with an investment-friendly transaction account",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "afc433d8-947a-46b5-9f51-d15d4fb8ba3b",
-    "name": "NAB Defence Force Home Loan",
-    "description": "A principal and interest consumer home loan with a discounted rate and optional offset capability designed only for eligible current and former ADF members.",
-    "category": "RESIDENTIAL_MORTGAGES"
   },
   {
     "productId": "b15d3e39-a110-4da6-b2f6-d634bbc99b82",
@@ -300,93 +90,15 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "bab0bd61-5cbc-4684-be25-6f2e86baa289",
-    "name": "NAB Rolling Deposit Account",
-    "description": "An investment account that offers enhanced returns for surplus cash while helping to manage liquidity by committing to a notice period for withdrawals.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "bb2fb3c7-05da-4fc3-b2e7-71794b8abad7",
-    "name": "NAB Finance Lease",
-    "description": "Rent the vehicle or equipment your business needs and return it at the end of the lease.",
-    "category": "LEASES"
-  },
-  {
-    "productId": "c43ad795-9db1-4e1f-a7f5-845714ecedfd",
-    "name": "NAB Rewards Platinum Card",
-    "description": "Earn NAB Rewards Points and enjoy platinum services and complimentary insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
     "productId": "d6092182-50de-4d95-bcc1-358412324ee8",
     "name": "NAB Business Everyday Account ($0 monthly fee)",
     "description": "Embrace the flexibility of only paying for what you need",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "e10279eb-1172-48dd-b6d2-08bed9605c5d",
-    "name": "NAB Rewards Signature Card",
-    "description": "Our highest NAB Rewards Points earn rate with platinum services and complimentary insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "e34c524c-6323-468f-8e20-36130e256fd5",
-    "name": "NAB Base Variable Rate Home Loan",
-    "description": "Get into your home sooner with our simple, low-cost home loan.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "ea10024f-2106-462c-9657-5b093e349be4",
-    "name": "NAB Rewards Classic Card",
-    "description": "Earn NAB Rewards Points on your everyday spend",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "ef0c8b23-e9ae-49af-9c0f-e31b4a27f542",
-    "name": "NAB Business Options Loan",
-    "description": "An easy to understand medium to long term business loan up to $1 million, ideal for growing your business.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "f50dab04-2721-4bc5-bbb6-7638759034c4",
-    "name": "NAB Margin Loan",
-    "description": "With great service and competitive interest rates, we can help you take advantage of investment opportunities, both domestically and internationally.",
-    "category": "MARGIN_LOANS"
-  },
-  {
     "productId": "f5fe3ee4-b6c0-4419-975f-8ce5469f2ba3",
     "name": "NAB Classic Banking Account",
     "description": "Meet your everyday bank account. Easy access to your money with no monthly account fees.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "f71d6005-d9d4-474f-80f8-11e03ca637f5",
-    "name": "NAB Flexi Deposits Account",
-    "description": "Need a deposit with more flexibility? You can structure a NAB Flexi Deposit based on your interest rate view.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "fbce13b1-77db-4226-9f55-9028ee31884f",
-    "name": "NAB Low Fee Card",
-    "description": "Our lowest interest rate on purchases with no frills",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "ff87d1af-392d-421a-903e-20b9517ea13e",
-    "name": "NAB Rewards Business Signature Card",
-    "description": "With a business credit card, earn and redeem NAB Rewards Points.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "Last Screen",
-    "name": "-- About App --",
-    "description": "Hope you enjoyed NAB product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays products offered by NAB Bank (Australia).\n\nData is provided available as per Consumer Data Right (ACCC), Australia (alos known as Open Banking).\n\nList of products displayed may not contain all the products currently offered by the bank.\nHence, for making any financial decision always go to : https://www.NAB.com.au/",
-    "category": "Type of Products"
-  },
-  {
-    "productId": "Last Screen final",
-    "name": "-- Disclaimer --",
-    "description": "The information provided by the developer of this app is for general informational purposes only and is provided in good faith.However we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information displayed.",
-    "category": "Type of Products final"
   }
 ]}

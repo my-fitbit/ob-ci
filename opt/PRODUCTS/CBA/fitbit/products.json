@@ -1,16 +1,14 @@
 {"products":[
-  
-  {"products":[
   {
     "productId": "Last Screen",
     "name": "Disclaimer !!",
-    "description": "The content of this fitbit app is provided for information purposes only. No claim is made as to the accuracy or currency of the content at any time.\n\nThe open data available from this app is intended as a general reference source. Users are encouraged to check with the individual bank to make any finincial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained on this app.",
+    "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
     "category": "Type of Products"
   },
   {
     "productId": "Last Screen on APP",
-    "name": "CBA Products !",
-    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : Apr 12, 2021\n\nTo know more details and background on open banking in Australia, see:\n\nhttps://treasury.gov.au/consumer-data-right",
+    "name": "CBA Products !\nTransaction & Savings Accounts",
+    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : 12 Apr 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
     "category": "Type of Accounts"
   },
   {

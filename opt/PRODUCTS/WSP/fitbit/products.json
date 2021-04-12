@@ -1,728 +1,86 @@
 {"products":[
   {
+    "productId": "Last Screen",
+    "name": "Disclaimer !!",
+    "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
+    "category": "Type of Products"
+  },
+  {
     "productId": "Last Screen on APP",
-    "name": "WSP products !",
-    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : Wed, Feb 17, 2021, 1:16 AM",
+    "name": "WSP Products !\nTransaction & Savings Accounts",
+    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : 12 Apr 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
     "category": "Type of Accounts"
   },
   {
-    "productId": "PLUnsecured",
-    "name": "Unsecured Personal Loan",
-    "description": " A fixed rate helps you plan ahead, as you know what your repayments will be",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "PLCar",
-    "name": "Car Loan",
-    "description": "Your dream car could be closer than you think with a Westpac Car Loan.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "FarmManagementDepositAccount",
-    "name": "Farm Management Deposit account",
-    "description": "As a primary producer, invest pre-tax income from high yield years to provide a cash reserve for the future.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "BSATDBusTermDeposit",
-    "name": "Business Term Deposit",
-    "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "BSATDTermDeposit",
-    "name": "Term Deposit",
-    "description": "With a BankSA Term Deposit you can invest your money safely and know exactly what your return will be.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "BOMTDBusTermDeposit",
-    "name": "Business Term Deposit",
-    "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "BOMTDTermDeposit",
-    "name": "Term Deposit",
-    "description": "With a Bank of Melbourne Term Deposit you can invest your money safely and know exactly what your return will be.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "STGTDBusTermDeposit",
-    "name": "Business Term Deposit",
-    "description": "Lock Away your money for a period of time and get a guaranteed return with our Business term deposit product",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "STGTDTermDeposit",
-    "name": "Term Deposit",
-    "description": "With a St.George Term Deposit you can invest your money safely and know exactly what your return will be.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "TDBusTermDeposit",
-    "name": "Business Term Deposit",
-    "description": "A Westpac Business Term Deposit lets you invest your money with the certainty of a fixed interest rate and a choice of terms.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "TDTermDeposit",
-    "name": "Term Deposit",
-    "description": "A Westpac Term Deposit lets you invest your money with the certainty of a fixed interest rate and a choice of terms.",
-    "category": "TERM_DEPOSITS"
-  },
-  {
-    "productId": "STGCCVertigoRainbowcard",
-    "name": "Vertigo Rainbow card",
-    "description": "Our product with 0% p.a. for 18 months on balance transfers# - 0% balance transfer fee",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCVertigoPlatinumRainbowcard",
-    "name": "Vertigo Platinum Rainbow card ",
-    "description": "Our product with 0% p.a. on purchases for 15 months from card approval.~ New cards only. Offer ends 2nd June 2020.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCNoannualfeecard",
-    "name": "No annual fee card ",
-    "description": "An everyday credit card without the annual fee",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCVertigocard",
-    "name": "Vertigo card",
-    "description": "An everyday card with a low annual card fee and purchase rate",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCVertigoPlatinumcard",
-    "name": "Vertigo Platinum",
-    "description": "A low rate credit card with platinum extras",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCAmplifycardFrequentFlyer",
-    "name": "Amplify card (Frequent Flyer)",
-    "description": "Spend on your card and earn points to redeem with Qantas",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCAmplifycardRewards",
-    "name": "Amplify card (Rewards)",
-    "description": "With our Amplify card product, get rewarded just for using your card as normal",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCNoannualfeecard",
-    "name": "No annual fee card ",
-    "description": "An everyday credit card without the annual fee",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCVertigocard",
-    "name": "Vertigo card",
-    "description": "An everyday card with a low annual card fee and purchase rate",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCVertigoPlatinumcard",
-    "name": "Vertigo Platinum card ",
-    "description": "A low rate credit card with platinum extras",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCAmplifycardRewards",
-    "name": "Amplify card (Rewards)",
-    "description": "With our Amplify card product, get rewarded just for using your card as normal",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCAmplifySignaturecardRewards",
-    "name": "Amplify Signature card (Rewards)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCAmplifycardFrequentFlyer",
-    "name": "Amplify card (Frequent Flyer)",
-    "description": "Spend on your card and earn points to redeem with Qantas",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BOMCCVertigocard",
-    "name": "Vertigo card",
-    "description": "An everyday card with a low annual card fee and purchase rate",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BOMCCVertigoPlatinumcard",
-    "name": "Vertigo  Platinum",
-    "description": "A low rate credit card with platinum extras",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BOMCCNoannualfeecard",
-    "name": "NO ANNUAL FEE",
-    "description": "An everyday credit card without the annual fee",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BOMCCAmplifycardRewards",
-    "name": "Amplify card (Rewards)",
-    "description": "With our Amplify card product, get rewarded just for using your card as normal",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BOMCCAmplifycardFrequentFlyer",
-    "name": "Amplify card (Frequent Flyer)",
-    "description": "Spend on your card and earn points to redeem with Qantas",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "MLOnlineInvestmentLoan",
-    "name": "Westpac  Online Investment Loan",
-    "description": "Designed for direct investors, and integrated with a Westpac Share Trading account, our simplified margin loan may help you build a diversified share portfolio.",
-    "category": "MARGIN_LOANS"
-  },
-  {
-    "productId": "BSAHLBuildingLoanInvestmentPI",
-    "name": "Building Loan Investment Property Loan Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLStandardVariableInvestmentIO",
-    "name": "Standard Variable Investment Property Loan Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBuildingLoanOwnerOccupiedPI",
-    "name": "Building Loan Owner Occupied Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBuildingLoanOwnerOccupiedIO",
-    "name": "Building Loan Owner Occupied Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLStandardVariableInvestmentPI",
-    "name": "Standard Variable Investment Property Loan Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBuildingLoanInvestmentIO",
-    "name": "Building Loan Investment Property Loan Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLRelocationLoanOwnerOccupiedWithoutEndIO",
-    "name": "Relocation Loan without end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLStandardVariableOwnerOccupiedIO",
-    "name": "Standard Variable Owner Occupied Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLRelocationLoanOwnerOccupiedWithEndIO",
-    "name": "Relocation Loan with end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLStandardVariableOwnerOccupiedPI",
-    "name": "Standard Variable Owner Occupied Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLPortfolioLoanVariableInvestmentIO",
-    "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
-    "description": "Bank of South Australia's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLPortfolioLoanFixedInvestmentIO",
-    "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
-    "description": "Bank of South Australia's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLFixedRateInvestmentPI",
-    "name": "Fixed Rate Investment Property Loan Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLFixedRateInvestmentIO",
-    "name": "Fixed Rate Investment Property Loan Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLFixedRateOwnerOccupiedIO",
-    "name": "Fixed Rate Owner Occupied Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLFixedRateOwnerOccupiedPI",
-    "name": "Fixed Rate Owner Occupied Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBasicOwnerOccupiedIO",
-    "name": "Basic Home Loan Owner Occupied Interest only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBasicInvestmentPI",
-    "name": "Basic Home Loan Investment Property Loan Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBasicInvestmentIO",
-    "name": "Basic Home Loan Investment Property Loan Interest Only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BSAHLBasicOwnerOccupiedPI",
-    "name": "Basic Home Loan Owner Occupied Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBuildingLoanInvestmentIO",
-    "name": "Building Loan Investment Property Loan Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBuildingLoanOwnerOccupiedPI",
-    "name": "Building Loan Owner Occupied Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBuildingLoanInvestmentPI",
-    "name": "Building Loan Investment Property Loan Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLStandardVariableOwnerOccupiedIO",
-    "name": "Standard Variable Owner Occupied Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBuildingLoanOwnerOccupiedIO",
-    "name": "Building Loan Owner Occupied Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLStandardVariableOwnerOccupiedPI",
-    "name": "Standard Variable Owner Occupied Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLStandardVariableInvestmentIO",
-    "name": "Standard Variable Investment Property Loan Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLStandardVariableInvestmentPI",
-    "name": "Standard Variable Investment Property Loan Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLRelocationLoanOwnerOccupiedWithEndIO",
-    "name": "Relocation Loan with end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLRelocationLoanOwnerOccupiedWithoutEndIO",
-    "name": "Relocation Loan without end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLPortfolioLoanVariableInvestmentIO",
-    "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
-    "description": "Bank of Melbourne's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLPortfolioLoanFixedInvestmentIO",
-    "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
-    "description": "Bank of Melbourne's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLFixedRateInvestmentIO",
-    "name": "Fixed Rate Investment Property Loan Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLFixedRateInvestmentPI",
-    "name": "Fixed Rate Investment Property Loan Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLFixedRateOwnerOccupiedPI",
-    "name": "Fixed Rate Owner Occupied Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLFixedRateOwnerOccupiedIO",
-    "name": "Fixed Rate Owner Occupied Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBasicOwnerOccupiedIO",
-    "name": "Basic Home Loan Owner Occupied Interest only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBasicInvestmentIO",
-    "name": "Basic Home Loan Investment Property Loan Interest Only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBasicInvestmentPI",
-    "name": "Basic Home Loan Investment Property Loan Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMHLBasicOwnerOccupiedPI",
-    "name": "Basic Home Loan Owner Occupied Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBuildingLoanInvestmentIO",
-    "name": "Building Loan Investment Property Loan Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBuildingLoanInvestmentPI",
-    "name": "Building Loan Investment Property Loan Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBuildingLoanOwnerOccupiedPI",
-    "name": "Building Loan Owner Occupied Principal and Interest",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLStandardVariableOwnerOccupiedPI",
-    "name": "Standard Variable Owner Occupied Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBuildingLoanOwnerOccupiedIO",
-    "name": "Building Loan Owner Occupied Interest Only",
-    "description": "With our Building Loan Product, you can make progressive payments, drawing down only the money you need as the construction of your new home is completed.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLStandardVariableInvestmentPI",
-    "name": "Standard Variable Investment Property Loan Principal and Interest",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLStandardVariableInvestmentIO",
-    "name": "Standard Variable Investment Property Loan Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLStandardVariableOwnerOccupiedIO",
-    "name": "Standard Variable Owner Occupied Interest Only",
-    "description": "A Standard Variable Rate Offering from the bank",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLRelocationLoanOwnerOccupiedWithoutEndIO",
-    "name": "Relocation Loan without end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLRelocationLoanOwnerOccupiedWithEndIO",
-    "name": "Relocation Loan with end Owner Occupied Interest Only",
-    "description": "The Relocation Loan is our competitive standard variable interest rate loan which remove the stress of timing the purchase or construction of your new home",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLFixedRateInvestmentPI",
-    "name": "Fixed Rate Investment Property Loan Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLPortfolioLoanVariableInvestmentIO",
-    "name": "Variable Portfolio Loan Investment Property Loan Interest Only",
-    "description": "St.George's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLPortfolioLoanFixedInvestmentIO",
-    "name": "Fixed Portfolio Loan Investment Property Loan Interest Only",
-    "description": "St.George's Portfolio Loan is an ongoing line of credit that lets you access funds to make investments for your future, such as to purchase an investment property or share portfolio.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLFixedRateInvestmentIO",
-    "name": "Fixed Rate Investment Property Loan Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLFixedRateOwnerOccupiedPI",
-    "name": "Fixed Rate Owner Occupied Principal and Interest",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLFixedRateOwnerOccupiedIO",
-    "name": "Fixed Rate Owner Occupied Interest Only",
-    "description": "Our offering to lock in a fixed rate to know exactly what your repayments would be",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBasicOwnerOccupiedPI",
-    "name": "Basic Home Loan Owner Occupied Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBasicInvestmentPI",
-    "name": "Basic Home Loan Investment Property Loan Principal and Interest",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBasicInvestmentIO",
-    "name": "Basic Home Loan Investment Property Loan Interest Only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "STGHLBasicOwnerOccupiedIO",
-    "name": "Basic Home Loan Owner Occupied Interest only",
-    "description": "Get your lowest personalised variable home loan rate, with no need to haggle when you apply online",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "BOMCCAmplifyPlatinumcardFrequentFlyer",
-    "name": "Amplify Platinum card (Frequent Flyer)",
-    "description": "A rewards credit card with insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "WestpacCommercialHirePurchase",
-    "name": "Commercial Hire Purchase",
-    "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "WestpacCommercialLoan",
-    "name": "Commercial Loan",
-    "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "WestpacFinanceLease",
-    "name": "Westpac Finance Lease",
-    "description": "Success in business often relies on having the right equipment, speak to one of our specialists about how you could finance it with our business equipment finance product",
-    "category": "LEASES"
-  },
-  {
-    "productId": "UnsecuredBusinessLoan",
-    "name": "Unsecured Business Loan",
-    "description": "Our offering to help your business in challenging times",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "TrChoiceMigrant",
-    "name": "Westpac Choice for migrants",
-    "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
+    "productId": "BSATrCompleteFreedom",
+    "name": "Complete Freedom ",
+    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "TrChoice55",
-    "name": "Westpac 55+ and Retired",
-    "description": "Westpac 55+ and Retired account is a flexible everyday account designed for retirees.",
+    "productId": "BOMTrCompleteFreedom",
+    "name": "Complete Freedom ",
+    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "SavESaver",
-    "name": "Westpac eSaver",
-    "description": "Earn great interest with our eSaver account, an online savings account with 24/7 access to funds.",
+    "productId": "STGTrCompleteFreedom",
+    "name": "Complete Freedom",
+    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSAPLSecuredVariable",
-    "name": "Secured Variable Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BSAPLSecuredFixed",
-    "name": "Secured Fixed Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BSAPLUnsecuredVariable",
-    "name": "Unsecured Variable Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BSAPLUnsecuredFixed",
-    "name": "Unsecured Fixed Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BOMPLSecuredVariable",
-    "name": "Secured Variable Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BOMPLSecuredFixed",
-    "name": "Secured Fixed Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BOMPLUnsecuredVariable",
-    "name": "Unsecured Variable Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "BOMPLUnsecuredFixed",
-    "name": "Unsecured Fixed Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "STGPLSecuredVariable",
-    "name": "Secured Variable Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "STGPLSecuredFixed",
-    "name": "Secured Fixed Personal Loan",
-    "description": "Our secured loan offering to provide you with lower interest rates with your car as a security for the loan",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "STGPLUnsecuredVariable",
-    "name": "Unsecured Variable Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "STGPLUnsecuredFixed",
-    "name": "Unsecured Fixed Personal Loan",
-    "description": "Our unsecured loan offering to meet your requirement for car, renovation, consolidation of debt or something else.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "STGCCAmplifyPlatinumcardFrequentFlyer",
-    "name": "Amplify Platinum card (Frequent Flyer)",
-    "description": "A rewards credit card with insurances",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCAmplifyPlatinumcardFrequentFlyer",
-    "name": "Amplify Platinum card (Frequent Flyer)",
-    "description": "A rewards credit card with insurances and a concierge service",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "RAMSSaver",
-    "name": "RAMS Saver ",
-    "description": "A completely online savings account, easily managed via myRAMS where you can deposit, withdraw and transfer funds",
+    "productId": "TrBusOneFlexi",
+    "name": "Business One - Flexi ",
+    "description": "A pay as you go account with no monthly service fee, for businesses that make a low number of transactions",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "RAMSLineOfCredit",
-    "name": "RAMS Line Of Credit",
-    "description": "Whether due to extra repayments or a capital gain, chances are some equity may have built up in your home over time.   Accessing this equity, to have a transactional facility with a set credit limit, secured by a property, is what a line of credit home loan can offer, subject to being able to service the loan.  \\n\\nWith an approved limit in place, you can access those funds for any investment purposes.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "RAMSHLVariableFullFeature",
-    "name": "RAMS Full Feature Home Loan",
-    "description": "A home loan with loads of features offering the ultimate in flexibility, parental leave options and a competitive rate, we are confident our RAMS full feature home loan has all you?ll probably need in a mortgage.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "RAMSHLVariableEssential",
-    "name": "RAMS Essential Home Loan",
-    "description": "A simple, clear to understand home loan to help you with one of the biggest purchases in life.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "RAMSHLFixedRate",
-    "name": "RAMS Fixed Rate Home Loan",
-    "description": "If you are looking for a packaged home loan with additional extras, the RAMS Fixed Rate Home Loan can form as part of the fixed portion of your loan should you wish to split your loan between fixed and variable rates. \n\nBy being a fixed rate home loan, you can benefit from inbuilt protection against rate changes during the fixed interest rate period as well as having the ability to make additional repayments up to $30,000 during the fixed term period.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "RAMSHLFixedRateClassic",
-    "name": "RAMS Fixed Rate Classic Home Loan",
-    "description": "A simple fixed loan with no additional extras, reverts to the RAMS Essential Home Loan when the fixed term expires.  Ideal for first home buyers and investors�",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "RAMSActionwithOffset",
-    "name": "RAMS Action with Offset",
-    "description": "By linking a RAMS Action account to your eligible RAMS home loan, you could pay less interest on your home loan.",
+    "productId": "TrBusOneLow",
+    "name": "Business One - Low Plan",
+    "description": "Our most popular everyday business banking transaction account",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "RAMSAction",
-    "name": "RAMS Action ",
-    "description": "It's an everyday transaction account, managed online via myRAMS where you can transfer funds between RAMS accounts, and much more.",
+    "productId": "BSASavIncentiveSaver",
+    "name": "Incentive Saver",
+    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSASavMaxiSaver",
+    "name": "Maxi Saver",
+    "description": "Anytime access with our highest interest savings account product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BOMSavMaxiSaver",
+    "name": "Maxi Saver",
+    "description": "Anytime access with our highest interest savings account product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "STGSavMaxiSaver",
+    "name": "Maxi Saver",
+    "description": "Anytime access with our highest interest savings account product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "STGSavIncentiveSaver",
+    "name": "Incentive Saver",
+    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSATrConcession",
+    "name": "Concession ",
+    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSATrRetirementAccess",
+    "name": "Retirement Access Plus",
+    "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -738,40 +96,70 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMTrCompleteFreedom",
-    "name": "Complete Freedom ",
-    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+    "productId": "STGTrConcession",
+    "name": "Concession",
+    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMCCBusBusinessVantage",
-    "name": "Business Vantage",
-    "description": "The BusinessVantage Joint and several liability with a liability structure suitable for more complex small businesses.",
-    "category": "CRED_AND_CHRG_CARDS"
+    "productId": "STGTrRetirementAccess",
+    "name": "Retirement Access Plus",
+    "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMCCBusAmplifyBusiness",
-    "name": "Amplify Business",
-    "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
+    "productId": "BOMSavIncentiveSaver",
+    "name": "Incentive Saver",
+    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMCCAmplifySignaturecardRewards",
-    "name": "Amplify Signature card (Rewards)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
+    "productId": "SavLife",
+    "name": "Westpac Life",
+    "description": "Westpac Life could help you reach your savings goals sooner by earning bonus interest every month you save.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMCCAmplifyPlatinumcardRewards",
-    "name": "Amplify Platinum card (Rewards)",
-    "description": "An everyday rewards points credit card with insurance",
-    "category": "CRED_AND_CHRG_CARDS"
+    "productId": "TrChoiceMigrant",
+    "name": "Westpac Choice for migrants",
+    "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMCCAmplifySignaturecardFrequentFlyer",
-    "name": "Amplify Signature card (Frequent Flyer)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
+    "productId": "TrChoiceConcession",
+    "name": "Westpac Choice for concession holders",
+    "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoiceStudent",
+    "name": "Student bank account & debit card",
+    "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoiceU21",
+    "name": "Westpac Choice for Under 21s",
+    "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoice",
+    "name": "Westpac Choice",
+    "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "STGSavBusBusinessAccessSaver",
+    "name": "Business Access Saver",
+    "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSASavBusBusinessAccessSaver",
+    "name": "Business Access Saver",
+    "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
     "productId": "BOMSavBusBusinessAccessSaver",
@@ -780,15 +168,33 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMSavMaxiSaver",
-    "name": "Maxi Saver",
-    "description": "Anytime access with our highest interest savings account product",
+    "productId": "RAMSSaver",
+    "name": "RAMS Saver",
+    "description": "A completely online savings account, easily managed via myRAMS where you can deposit, withdraw and transfer funds",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BOMSavIncentiveSaver",
-    "name": "Incentive Saver",
-    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+    "productId": "TrChoice55",
+    "name": "Westpac 55+ and Retired",
+    "description": "Westpac 55+ and Retired account is a flexible everyday account designed for retirees.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "SavESaver",
+    "name": "Westpac eSaver",
+    "description": "Earn great interest with our eSaver account, an online savings account with 24/7 access to funds.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "RAMSActionwithOffset",
+    "name": "RAMS Action with Offset",
+    "description": "By linking a RAMS Action account to your eligible RAMS home loan, you could pay less interest on your home loan.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "RAMSAction",
+    "name": "RAMS Action ",
+    "description": "It's an everyday transaction account, managed online via myRAMS where you can transfer funds between RAMS accounts, and much more.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -816,72 +222,6 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "STGTrConcession",
-    "name": "Concession",
-    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "STGCCBusAmplifyBusiness",
-    "name": "Amplify Business",
-    "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCBusBusinessVantage",
-    "name": "Business Vantage",
-    "description": "The BusinessVantage Visa credit card has a variable purchase rate of 9.99% p.a. (new cards only) and up to 55 days interest-free on purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGTrCompleteFreedom",
-    "name": "Complete Freedom",
-    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "STGTrRetirementAccess",
-    "name": "Retirement Access Plus",
-    "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "STGCCAmplifySignaturecardRewards",
-    "name": "Amplify Signature card (Rewards)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCAmplifyPlatinumcardRewards",
-    "name": "Amplify Platinum card (Rewards)",
-    "description": "An everyday rewards points credit card with insurance",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGCCAmplifySignaturecardFrequentFlyer",
-    "name": "Amplify Signature card (Frequent Flyer)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "STGSavBusBusinessAccessSaver",
-    "name": "Business Access Saver",
-    "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "STGSavIncentiveSaver",
-    "name": "Incentive Saver",
-    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "STGSavMaxiSaver",
-    "name": "Maxi Saver",
-    "description": "Anytime access with our highest interest savings account product",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
     "productId": "STGTrBusSocietyChequeAccount",
     "name": "Society Cheque Account",
     "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
@@ -906,63 +246,15 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSATrConcession",
-    "name": "Concession ",
-    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
+    "productId": "BSATrBusSocietyChequeAccount",
+    "name": "Society Cheque Account",
+    "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSACCBusAmplifyBusiness",
-    "name": "Amplify Business",
-    "description": "Amplify Business is a personal liability business credit card that rewards you for your business expenses. Earn something more rewarding with uncapped points on eligible business purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCBusVISABusiness",
-    "name": "VISA Business",
-    "description": "The VISA Business Joint and several liability\\nwith a liability structure suitable for more complex small businesses.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSATrRetirementAccess",
-    "name": "Retirement Access Plus",
-    "description": "An everyday bank account designed for eligible retirees, which earns split interest on balances.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSATrCompleteFreedom",
-    "name": "Complete Freedom ",
-    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSACCAmplifyPlatinumcardRewards",
-    "name": "Amplify Platinum card (Rewards)",
-    "description": "An everyday rewards points credit card with insurance",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSACCAmplifySignaturecardFrequentFlyer",
-    "name": "Amplify Signature card (Frequent Flyer)",
-    "description": "Our most rewarding credit card",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "BSASavBusBusinessAccessSaver",
-    "name": "Business Access Saver",
-    "description": "A business savings account that allows you to set money aside for payments such as GST and tax.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSASavMaxiSaver",
-    "name": "Maxi Saver",
-    "description": "Anytime access with our highest interest savings account product",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSASavIncentiveSaver",
-    "name": "Incentive Saver",
-    "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
+    "productId": "BSATrBusFreedomBusinessAccount",
+    "name": "Freedom Business Account",
+    "description": "Make your life easier with a dedicated business account and separate personal and Business account",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -978,256 +270,10 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSATrBusSocietyChequeAccount",
-    "name": "Society Cheque Account",
-    "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSATrBusFreedomBusinessAccount",
-    "name": "Freedom Business Account",
-    "description": "Make your life easier with a dedicated business account and separate personal and Business account",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
     "productId": "SavBusCashResBonus",
     "name": "Westpac Business Cash Reserve Bonus",
     "description": "Earn interest on your collected GST with a bonus interest rate when no withdrawals are made in a month.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "CCAltPlatRewards",
-    "name": "Altitude Platinum Card - Rewards",
-    "description": "A platinum rewards credit card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAltPlatQantas",
-    "name": "Altitude Platinum Card - Qantas",
-    "description": "A platinum rewards credit card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCBusChoiceRewardsPlat",
-    "name": "BusinessChoice Rewards Platinum Mastercard",
-    "description": "Use your Qantas Points to reward yourself, your staff or your family.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "HLVariableFlexiInvestmentPI",
-    "name": "Flexi First Option Investment Loan Principal & Interest",
-    "description": "Flexi First Option Investment Home Loan gives investors a low variable rate with no fees for loan maintenance, redraw or setup",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLVariableFlexiInvestmentIO",
-    "name": "Flexi First Option Investment Loan Interest Only",
-    "description": "Flexi First Option Investment Home Loan gives investors a low variable rate with no fees for loan maintenance, redraw or setup",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLVariableFlexiOwnerOccupiedIO",
-    "name": "Flexi First Option Home Loan Interest Only",
-    "description": "Flexi First Option is a basic home loan with a low variable rate, no fees for loan maintenance or redraw and no setup fee with principal & interest repayments.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLVariableFlexiOwnerOccupiedPI",
-    "name": "Flexi First Option Home Loan Principal & Interest",
-    "description": "Flexi First Option is a basic home loan with a low variable rate, no fees for loan maintenance or redraw and no setup fee with principal & interest repayments.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "PLFlexi",
-    "name": "Flexi Loan",
-    "description": "An ongoing line of credit facility you can access when you need to, without having to reapply.",
-    "category": "PERS_LOANS"
-  },
-  {
-    "productId": "CCBusLowRate",
-    "name": "BusinessChoice Everyday Mastercard",
-    "description": "A low interest rate on all your everyday business purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAmexAltPlat",
-    "name": "American Express Westpac Altitude Platinum Card",
-    "description": "Westpac's co-branded Platinum Card with complimentary insurance covers, bonus rewards points offers and no cap on the points you earn.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAltBusGold",
-    "name": "Altitude Business Gold Mastercard",
-    "description": "A wealth of reward point options & purchase protections.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAltBusPlat",
-    "name": "Altitude Business Platinum Mastercard",
-    "description": "Uncapped rewards points & complimentary platinum insurance covers",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAltBlackQantas",
-    "name": "Altitude Black Card - Qantas",
-    "description": "Westpac's most rewarding card offering you a great rewards program ? Altitude Qantas - with uncapped points, premium travel and lifestyle services.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCAltBlackRewards",
-    "name": "Altitude Black Card - Reward",
-    "description": "Westpac's most rewarding card offering you a great rewards program ? Altitude Rewards - with uncapped points, premium travel and lifestyle services.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCLowFeePlat",
-    "name": "Low Fee Platinum",
-    "description": "Enjoy complimentary insurance and up to 55 days interest free on purchases. ",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCLowFee",
-    "name": "Low Fee Card",
-    "description": "A straightforward credit card with no annual card fee in the first year and up to 55 days interest free on purchases.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "HLFixedOwnerOccupiedIO",
-    "name": "Fixed Options Home Loan Interest Only",
-    "description": "Our Fixed Options Home Loan has a fixed interest rate and set repayments that won't change during the fixed term so you can lock in certainty.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLFixedOwnerOccupiedPI",
-    "name": "Fixed Options Home Loan Principal & Interest",
-    "description": "Our Fixed Options Home Loan has a fixed interest rate and set repayments that won't change during the fixed term so you can lock in certainty.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "CCAmexAltBlack",
-    "name": "The American Express Westpac Altitude Black Card",
-    "description": "Westpac's co-branded Black Card offering you Westpac?s highest points earn rates, additional lounge passes, access to American Express benefits and much more.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCLowRate",
-    "name": "Low Rate Card",
-    "description": "Our Low Rate Card provides a low interest purchase rate plus a low annual card fee to help trim your credit card costs.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "CCLite",
-    "name": "Westpac Lite Card",
-    "description": "Shopping online or travelling overseas? Pay no foreign transaction fees and get our lowest purchase rate with the Westpac Lite Card.",
-    "category": "CRED_AND_CHRG_CARDS"
-  },
-  {
-    "productId": "TrChoiceConcession",
-    "name": "Westpac Choice for concession holders",
-    "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "SavLife",
-    "name": "Westpac Life",
-    "description": "Westpac Life could help you reach your savings goals sooner by earning bonus interest every month you save.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "HLVariableOffsetOwnerOccupiedIO",
-    "name": "Variable Home Loan with Offset Interest Only",
-    "description": "Get a variable rate, make unlimited extra repayments with no associated break costs and save interest on your home loan balance with an optional offset account.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLFixedInvestmentPI",
-    "name": "Fixed Rate Investment Property Loan Principal & Interest",
-    "description": "",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLFixedInvestmentIO",
-    "name": "Fixed Rate Investment Property Loan Interest Only",
-    "description": "",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "TrChoiceStudent",
-    "name": "Student bank account & debit card",
-    "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoiceU21",
-    "name": "Westpac Choice for Under 21s",
-    "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoice",
-    "name": "Westpac Choice",
-    "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TravelMoneyCard",
-    "name": "Travel money card",
-    "description": "A reloadable prepaid Visa money card that lets you lock in exchange rates in advance and can be used to make payments in 180+ countries with no load or reload fees.",
-    "category": "TRAVEL_CARDS"
-  },
-  {
-    "productId": "WestpacBusinessOneLoan",
-    "name": "Westpac Business One Loan",
-    "description": "For business loans over $250,000, the Westpac Business One Loan provides a flexible line of credit with full transaction access.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "BusinessOverdraft",
-    "name": "Business Overdraft",
-    "description": "Provides cash flow relief with funds to cover business expenses, such as invoices and wages until you?re paid.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "BusinessEquityAccessLoan",
-    "name": "Business Equity Access Loan",
-    "description": "A Business Equity Access Loan is a line of credit or a loan, secured against residential or commercial property. Use for investing, expanding, refinancing or covering everyday operating expenses.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "InsurancePremiumFinance",
-    "name": "Insurance Premium Finance",
-    "description": "Short-term business finance that lets you spread a lump sum annual insurance premium across monthly instalments",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "InvoiceFinance",
-    "name": "Invoice Finance",
-    "description": "Improve business cash flow by accessing up to 85% of unpaid invoices owed to you. ",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "AgriFinance",
-    "name": "Westpac Agri Finance",
-    "description": "For business loans over $250,000, Westpac Agri Finance is a fixed or variable rate loan with features designed for primary producers. ",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "BankGuarantee",
-    "name": "Bank Guarantee",
-    "description": "Grow your business by providing your suppliers and vendors with certainty of payment. ",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "BankBillBusinessLoan",
-    "name": "Bank Bill Business Loan",
-    "description": "Our most flexible loan for businesses looking to borrow more than $250,000 for acquisitions, capital investment or refinancing.",
-    "category": "BUSINESS_LOANS"
-  },
-  {
-    "productId": "SecuredBusinessLoan",
-    "name": "Secured Business Loan",
-    "description": "Borrow from $20,000 with a Westpac Business Loan. A fixed or variable rate business loan with flexible repayment options. Only pay interest on the amount you owe. ",
-    "category": "BUSINESS_LOANS"
   },
   {
     "productId": "ForeignCurrencyAccountBusiness",
@@ -1242,12 +288,6 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "StatutoryTrustAccount",
-    "name": "Statutory Trust account",
-    "description": "Our Statutory Trust Accounts help you comply with statutory requirements.",
-    "category": "REGULATED_TRUST_ACCOUNTS"
-  },
-  {
     "productId": "WestpacDIYSuperWorkingAccount",
     "name": "Westpac DIY Super Working Account",
     "description": "Westpac DIY Super Working account acts as the cash 'hub' to help you manage your investments and access your funds on a day-to-day basis",
@@ -1258,18 +298,6 @@
     "name": "Westpac DIY Super Saving Account",
     "description": "A Westpac product to be used with DIY working Account to hold your surplus fund",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "UnsecuredBusinessOverdraft",
-    "name": "Unsecured Business Overdraft",
-    "description": "Now it?s quick and easy to apply for unsecured funds to expand your business.",
-    "category": "OVERDRAFTS"
-  },
-  {
-    "productId": "EquityAccessLoan",
-    "name": "Equity Access Loan",
-    "description": "Equity Access Loan is a revolving line of credit secured against your property.Use your equity to renovate, invest or to fund those great plans you've always had. When approved, your line of credit is ready to use when you need it including for unexpected expenses ",
-    "category": "RESIDENTIAL_MORTGAGES"
   },
   {
     "productId": "SavComSolCashRes",
@@ -1290,36 +318,6 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "TrBusOneFlexi",
-    "name": "Business One - Flexi ",
-    "description": "A pay as you go account with no monthly service fee, for businesses that make a low number of transactions",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "HLVariableOffsetInvestmentIO",
-    "name": "Variable Investor Home Loan with Offset Interest Only",
-    "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLBridgingOption",
-    "name": "Bridging Home Loan",
-    "description": "Apart from buying an existing property, bridging loans are also an option if you want to stay in your current property while you build a new property. It saves you the hassle of selling your property and renting somewhere short-term, not to mention having to pay for the costs of moving twice.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLVariableOffsetOwnerOccupiedPI",
-    "name": "Variable Home Loan with Offset Principal & Interest",
-    "description": "Own your home sooner with our Rocket Repay Home Loan and optional linked offset account.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
-    "productId": "HLVariableOffsetInvestmentPI",
-    "name": "Variable Investor Home Loan with Offset Principal & Interest",
-    "description": "Own your property sooner with our Rocket Investment Loan and optional linked offset account.",
-    "category": "RESIDENTIAL_MORTGAGES"
-  },
-  {
     "productId": "SavBusCashRes",
     "name": "Westpac Business Cash Reserve",
     "description": "Earn interest on your collected GST and access your funds anytime you need them with our most popular business online savings account",
@@ -1336,23 +334,5 @@
     "name": "Bump Savings",
     "description": "An account designed to help children kick start their savings. Available for under 18s.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrBusOneLow",
-    "name": "Business One - Low Plan",
-    "description": "Our most popular everyday business banking transaction account",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "Last Screen",
-    "name": "-- About App --",
-    "description": "Hope you enjoyed WSP product details on your wrist (fitbit) !\n\n`My Bank -AU-9` app displays products offered by WSP Bank (Australia).\n\nData is provided available as per Consumer Data Right (ACCC), Australia (alos known as Open Banking).\n\nList of products displayed may not contain all the products currently offered by the bank.\nHence, for making any financial decision always go to : https://www.WSP.com.au/",
-    "category": "Type of Products"
-  },
-  {
-    "productId": "Last Screen final",
-    "name": "-- Disclaimer --",
-    "description": "The information provided by the developer of this app is for general informational purposes only and is provided in good faith.However we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information displayed.",
-    "category": "Type of Products final"
   }
 ]}

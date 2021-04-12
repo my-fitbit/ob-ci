@@ -2,6 +2,34 @@
   "data": {
     "products": [
       {
+        "productId": "b7bb9da4-3913-484c-8d2d-3fc99b9b4a72",
+        "effectiveFrom": "1999-08-01T23:00:00.000Z",
+        "effectiveTo": "9999-12-31T01:00:00.000Z",
+        "lastUpdated": "2021-02-28T13:14:53.000Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Savings Maximiser",
+        "description": "High variable interest rate. And no fees or penalties on withdrawals.",
+        "brand": "ING",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.ing.com.au/savings/savings-maximiser.html"
+        }
+      },
+      {
+        "productId": "f9349fd9-7f0e-423a-8e2d-035d8be6c65a",
+        "effectiveFrom": "2018-07-08T23:00:00.000Z",
+        "effectiveTo": "9999-12-31T01:00:00.000Z",
+        "lastUpdated": "2021-02-25T06:30:00.000Z",
+        "productCategory": "PERS_LOANS",
+        "name": "ING Personal Loan",
+        "description": "Unsecured personal loan with a low fixed rate, no ongoing monthly fees and no early repayment fees.",
+        "brand": "ING",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.ing.com.au/personal-loans.html"
+        }
+      },
+      {
         "productId": "4bacdad3-d6f4-4c99-a50b-690a46bd9a23",
         "effectiveFrom": "2000-05-21T23:00:00.000Z",
         "effectiveTo": "9999-12-31T01:00:00.000Z",
@@ -41,20 +69,6 @@
         "isTailored": false,
         "additionalInformation": {
           "overviewUri": "https://www.ing.com.au/home-loans/orange-advantage.html"
-        }
-      },
-      {
-        "productId": "b7bb9da4-3913-484c-8d2d-3fc99b9b4a72",
-        "effectiveFrom": "1999-08-01T23:00:00.000Z",
-        "effectiveTo": "9999-12-31T01:00:00.000Z",
-        "lastUpdated": "2020-11-10T13:00:00.000Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Savings Maximiser",
-        "description": "High variable interest rate. And no fees or penalties on withdrawals.",
-        "brand": "ING",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.ing.com.au/savings/savings-maximiser.html"
         }
       },
       {
@@ -139,20 +153,6 @@
         "isTailored": false,
         "additionalInformation": {
           "overviewUri": "https://www.ing.com.au/everyday-banking/orange-everyday-youth.html"
-        }
-      },
-      {
-        "productId": "f9349fd9-7f0e-423a-8e2d-035d8be6c65a",
-        "effectiveFrom": "2018-07-08T23:00:00.000Z",
-        "effectiveTo": "9999-12-31T01:00:00.000Z",
-        "lastUpdated": "2019-06-30T23:00:00.000Z",
-        "productCategory": "PERS_LOANS",
-        "name": "ING Personal Loan",
-        "description": "Unsecured personal loan with a low fixed rate, no ongoing monthly fees and no early repayment fees.",
-        "brand": "ING",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.ing.com.au/personal-loans.html"
         }
       },
       {
