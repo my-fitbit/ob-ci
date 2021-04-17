@@ -101,6 +101,7 @@ function printProducts(responseDataInJson, bankName) {
   var filename = "./opt/PRODUCTS/" + bankName + "/fitbit/products.json";
 
   /* Format the response as desired by fitbit companion*/
+
   // var productReadyForFitbit = "{\"products\":" + JSON.stringify(products1, null, 2) + "}";
   var productReadyForFitbit = "{\"data\": {\"products\":" + JSON.stringify(products1, null, 2) + "},\"size\": \"" + productsCount + "\"}";
 

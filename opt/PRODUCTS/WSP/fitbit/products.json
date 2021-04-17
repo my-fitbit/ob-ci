@@ -42,9 +42,9 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSATrCompleteFreedom",
-    "name": "Complete Freedom ",
-    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+    "productId": "BOMTrConcession",
+    "name": "Concession ",
+    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -72,7 +72,7 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSASavIncentiveSaver",
+    "productId": "BOMSavIncentiveSaver",
     "name": "Incentive Saver",
     "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
