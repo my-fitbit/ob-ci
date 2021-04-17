@@ -7,6 +7,12 @@
     "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
     "category": "Type of Products"
   },
+     {
+    "productId": "DELETE IT .......",
+    "name": "Standard Business Cheque Account - Interest Bearing Option",
+    "description": "Transaction accounts that pays interest above minimum balances.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
   {
     "productId": "Last Screen on APP",
     "name": "CBA Products !\nTransaction & Savings Accounts",
