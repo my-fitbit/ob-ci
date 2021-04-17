@@ -1,22 +1,50 @@
-{
-  "data": {
-  "products":[
+{"data": {"products":[
   {
     "productId": "Last Screen",
     "name": "Disclaimer !!",
-    "description": "The content of this app is for information purposes only.\n\nThe open data available from this app is for general reference only.\n\nUsers are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
+    "description": "The content of this app is provided for information purposes only.\n\nThe open data available from this app is intended as a general reference source. Users are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app.",
     "category": "Type of Products"
   },
   {
     "productId": "Last Screen on APP",
     "name": "WSP Products !\nTransaction & Savings Accounts",
-    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : 12 Apr 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
+    "description": "Thank you for using `My Bank -AU-9` app.\n\nThis data was last updated on : Apr 17, 2021\n\nTo know more details and background on open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right",
     "category": "Type of Accounts"
   },
   {
-    "productId": "BSATrCompleteFreedom",
-    "name": "Complete Freedom ",
-    "description": "An everyday bank account that has all the features to help make managing your day-to-day money a breeze",
+    "productId": "TrChoiceMigrant",
+    "name": "Westpac Choice for migrants",
+    "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoiceConcession",
+    "name": "Westpac Choice for concession holders",
+    "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoiceU21",
+    "name": "Westpac Choice for Under 21s",
+    "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoiceStudent",
+    "name": "Student bank account & debit card",
+    "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "TrChoice",
+    "name": "Westpac Choice",
+    "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BOMTrConcession",
+    "name": "Concession ",
+    "description": "A low-cost bank account for Australians receiving government health or pension benefits. ",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -44,7 +72,7 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSASavIncentiveSaver",
+    "productId": "BOMSavIncentiveSaver",
     "name": "Incentive Saver",
     "description": "Grow your monthly balance and we?ll reward your dedication with our incentive Saver product",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
@@ -119,36 +147,6 @@
     "productId": "SavLife",
     "name": "Westpac Life",
     "description": "Westpac Life could help you reach your savings goals sooner by earning bonus interest every month you save.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoiceMigrant",
-    "name": "Westpac Choice for migrants",
-    "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoiceConcession",
-    "name": "Westpac Choice for concession holders",
-    "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoiceStudent",
-    "name": "Student bank account & debit card",
-    "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoiceU21",
-    "name": "Westpac Choice for Under 21s",
-    "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "TrChoice",
-    "name": "Westpac Choice",
-    "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -248,18 +246,6 @@
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
-    "productId": "BSATrBusSocietyChequeAccount",
-    "name": "Society Cheque Account",
-    "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
-    "productId": "BSATrBusFreedomBusinessAccount",
-    "name": "Freedom Business Account",
-    "description": "Make your life easier with a dedicated business account and separate personal and Business account",
-    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
-  },
-  {
     "productId": "BSATrBusStatutoryTrustAccount",
     "name": "Statutory Trust Account",
     "description": "Our Statutory Trust Accounts help you comply with statutory requirements.",
@@ -269,6 +255,18 @@
     "productId": "BSATrBusBusinessChequeAccountPlus",
     "name": "Business Cheque Account Plus",
     "description": "Complete everyday business bank account, ideal for businesses with a high number of transactions each month.",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSATrBusSocietyChequeAccount",
+    "name": "Society Cheque Account",
+    "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
+    "category": "TRANS_AND_SAVINGS_ACCOUNTS"
+  },
+  {
+    "productId": "BSATrBusFreedomBusinessAccount",
+    "name": "Freedom Business Account",
+    "description": "Make your life easier with a dedicated business account and separate personal and Business account",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   },
   {
@@ -337,6 +335,4 @@
     "description": "An account designed to help children kick start their savings. Available for under 18s.",
     "category": "TRANS_AND_SAVINGS_ACCOUNTS"
   }
-]},
-"size":"56"
-}
+]},"size": "56"}

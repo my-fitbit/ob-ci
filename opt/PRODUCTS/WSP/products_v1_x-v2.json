@@ -2,6 +2,108 @@
   "data": {
     "products": [
       {
+        "productId": "TrChoiceMigrant",
+        "lastUpdated": "2021-04-15T06:58:36Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for migrants",
+        "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/migrants/"
+        }
+      },
+      {
+        "productId": "TrChoiceConcession",
+        "lastUpdated": "2021-04-15T06:58:36Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for concession holders",
+        "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/basic/"
+        }
+      },
+      {
+        "productId": "TrChoiceU21",
+        "lastUpdated": "2021-04-15T06:58:35Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice for Under 21s",
+        "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/under-21/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
+            "title": "Westpac Youth Bank Debit card"
+          }
+        ]
+      },
+      {
+        "productId": "TrChoiceStudent",
+        "lastUpdated": "2021-04-15T06:58:35Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Student bank account & debit card",
+        "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/tertiary-student/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc_p_bank-accounts_transaction_choice_tertiary-student_isic_232x146.png",
+            "title": "Westpac Student Discount Card"
+          }
+        ]
+      },
+      {
+        "productId": "TrChoice",
+        "lastUpdated": "2021-04-15T06:58:34Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Westpac Choice",
+        "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
+            "title": "Westpac Choice Debit card"
+          }
+        ]
+      },
+      {
+        "productId": "BusinessOverdraft",
+        "lastUpdated": "2021-04-13T08:34:13Z",
+        "productCategory": "OVERDRAFTS",
+        "name": "Business Overdraft",
+        "description": "Provides cash flow relief with funds to cover business expenses, such as invoices and wages until you?re paid.",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-overdraft/"
+        }
+      },
+      {
+        "productId": "SecuredBusinessLoan",
+        "lastUpdated": "2021-04-13T08:34:07Z",
+        "productCategory": "BUSINESS_LOANS",
+        "name": "Secured Business Loan",
+        "description": "Borrow from $20,000 with a Westpac Business Loan. A fixed or variable rate business loan with flexible repayment options. Only pay interest on the amount you owe. ",
+        "brand": "Westpac",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-lending/"
+        }
+      },
+      {
         "productId": "BSATrCompleteFreedom",
         "lastUpdated": "2021-04-08T11:53:34Z",
         "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
@@ -556,84 +658,6 @@
         "additionalInformation": {
           "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/savings-accounts/life/"
         }
-      },
-      {
-        "productId": "TrChoiceMigrant",
-        "lastUpdated": "2021-03-27T14:09:34Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Westpac Choice for migrants",
-        "description": "A Westpac Choice everyday bank account for people who have arrived in Australia in the last 12 months.",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/migrants/"
-        }
-      },
-      {
-        "productId": "TrChoiceConcession",
-        "lastUpdated": "2021-03-27T14:09:32Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Westpac Choice for concession holders",
-        "description": "This basic low-cost transaction account is designed for if you're receiving Australian social security benefits.",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/basic/"
-        }
-      },
-      {
-        "productId": "TrChoiceStudent",
-        "lastUpdated": "2021-03-27T14:09:27Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Student bank account & debit card",
-        "description": "Westpac Choice for students is a simple to use everyday account packed full of features to help you bank with ease",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/tertiary-student/"
-        },
-        "cardArt": [
-          {
-            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc_p_bank-accounts_transaction_choice_tertiary-student_isic_232x146.png",
-            "title": "Westpac Student Discount Card"
-          }
-        ]
-      },
-      {
-        "productId": "TrChoiceU21",
-        "lastUpdated": "2021-03-27T14:09:25Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Westpac Choice for Under 21s",
-        "description": "Westpac Choice is packed full of features to help under 21s bank with ease",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/under-21/"
-        },
-        "cardArt": [
-          {
-            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
-            "title": "Westpac Youth Bank Debit card"
-          }
-        ]
-      },
-      {
-        "productId": "TrChoice",
-        "lastUpdated": "2021-03-27T14:09:23Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Westpac Choice",
-        "description": "Westpac Choice is a simple to use everyday account packed full of features to help you bank with ease",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/personal-banking/bank-accounts/transaction/choice/"
-        },
-        "cardArt": [
-          {
-            "imageUri": "https://www.westpac.com.au/content/dam/public/wbc/images/personal/bank-accounts/wbc-misc_p_bank-accounts_transaction_choice__u21_card-app-canstar_340x340.jpg",
-            "title": "Westpac Choice Debit card"
-          }
-        ]
       },
       {
         "productId": "BSAHLPortfolioLoanFixed",
@@ -1274,24 +1298,6 @@
         ]
       },
       {
-        "productId": "BSACCBusVISABusiness",
-        "lastUpdated": "2021-03-19T11:35:49Z",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "name": "VISA Business",
-        "description": "The VISA Business Joint and several liability with a liability structure suitable for more complex small businesses.",
-        "brand": "BankSA",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.banksa.com.au/business/credit-card/low-rate"
-        },
-        "cardArt": [
-          {
-            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/business/credit-cards/BSA_VISA-business-credit-card_261x166.jpg",
-            "title": "BusinessVantage credit card"
-          }
-        ]
-      },
-      {
         "productId": "BSACCBusAmplifyBusiness",
         "lastUpdated": "2021-03-19T11:35:49Z",
         "productCategory": "CRED_AND_CHRG_CARDS",
@@ -1306,6 +1312,24 @@
           {
             "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/business/credit-cards/BSA_Business-Amplify-credit-card_261x166.jpg",
             "title": "Amplify Business credit card"
+          }
+        ]
+      },
+      {
+        "productId": "BSACCBusVISABusiness",
+        "lastUpdated": "2021-03-19T11:35:49Z",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "name": "VISA Business",
+        "description": "The VISA Business Joint and several liability with a liability structure suitable for more complex small businesses.",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/credit-card/low-rate"
+        },
+        "cardArt": [
+          {
+            "imageUri": "https://www.banksa.com.au/content/dam/bsa/images/business/credit-cards/BSA_VISA-business-credit-card_261x166.jpg",
+            "title": "BusinessVantage credit card"
           }
         ]
       },
@@ -2357,30 +2381,6 @@
         }
       },
       {
-        "productId": "BSATrBusSocietyChequeAccount",
-        "lastUpdated": "2020-09-10T07:42:11Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Society Cheque Account",
-        "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
-        "brand": "BankSA",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/society-cheque-account"
-        }
-      },
-      {
-        "productId": "BSATrBusFreedomBusinessAccount",
-        "lastUpdated": "2020-09-10T07:42:11Z",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "name": "Freedom Business Account",
-        "description": "Make your life easier with a dedicated business account and separate personal and Business account",
-        "brand": "BankSA",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/freedom-business-account"
-        }
-      },
-      {
         "productId": "BSATrBusStatutoryTrustAccount",
         "lastUpdated": "2020-09-10T07:42:11Z",
         "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
@@ -2403,6 +2403,30 @@
         "isTailored": false,
         "additionalInformation": {
           "overviewUri": "https://www.banksa.com.au/business/bank-accounts/business-cheque-account-plus"
+        }
+      },
+      {
+        "productId": "BSATrBusSocietyChequeAccount",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Society Cheque Account",
+        "description": "Low cost banking product for non profit organisation- Ideal for schools, charities, community and sporting groups and government agencies",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/society-cheque-account"
+        }
+      },
+      {
+        "productId": "BSATrBusFreedomBusinessAccount",
+        "lastUpdated": "2020-09-10T07:42:11Z",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "Freedom Business Account",
+        "description": "Make your life easier with a dedicated business account and separate personal and Business account",
+        "brand": "BankSA",
+        "isTailored": false,
+        "additionalInformation": {
+          "overviewUri": "https://www.banksa.com.au/business/bank-accounts/freedom-business-account"
         }
       },
       {
@@ -2445,18 +2469,6 @@
         "isTailored": true,
         "additionalInformation": {
           "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/commercial-loans/business-one-loan/"
-        }
-      },
-      {
-        "productId": "BusinessOverdraft",
-        "lastUpdated": "2020-06-26T06:50:37Z",
-        "productCategory": "OVERDRAFTS",
-        "name": "Business Overdraft",
-        "description": "Provides cash flow relief with funds to cover business expenses, such as invoices and wages until you?re paid.",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-overdraft/"
         }
       },
       {
@@ -2529,18 +2541,6 @@
         "isTailored": true,
         "additionalInformation": {
           "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/commercial-loans/bank-bill-business-loan/"
-        }
-      },
-      {
-        "productId": "SecuredBusinessLoan",
-        "lastUpdated": "2020-06-26T06:50:29Z",
-        "productCategory": "BUSINESS_LOANS",
-        "name": "Secured Business Loan",
-        "description": "Borrow from $20,000 with a Westpac Business Loan. A fixed or variable rate business loan with flexible repayment options. Only pay interest on the amount you owe. ",
-        "brand": "Westpac",
-        "isTailored": false,
-        "additionalInformation": {
-          "overviewUri": "https://www.westpac.com.au/business-banking/business-loans/small-business-loans/business-lending/"
         }
       },
       {

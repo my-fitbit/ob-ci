@@ -688,7 +688,7 @@
         "lastUpdated": "2019-09-30T23:59:59+10:00",
         "productCategory": "CRED_AND_CHRG_CARDS",
         "name": "NAB Low Fee Card",
-        "description": "Our lowest interest rate on purchases with no frills",
+        "description": "Our lowest annual fee card with no frills",
         "brand": "NAB",
         "applicationUri": "https://www.nab.com.au/personal/banking/credit-cards/nab-low-fee-card",
         "isTailored": false,

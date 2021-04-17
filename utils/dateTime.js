@@ -12,6 +12,12 @@ var options = {
   timeZone: 'Australia/Sydney',
 };
 
+const optionsAU_DD_MMM_YYY = {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric'
+};
+
 const optionsAU = {
   year: 'numeric',
   month: 'short',
@@ -19,12 +25,6 @@ const optionsAU = {
   weekday: 'short',
   hour: 'numeric',
   minute: 'numeric'
-};
-
-const optionsAU_DD_MMM_YYY = {
-  year: 'numeric',
-  month: 'short',
-  day: 'numeric'
 };
 
 function getLocalDateAndTime_AU_DD_MMM_YYY() {

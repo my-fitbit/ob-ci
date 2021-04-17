@@ -96,15 +96,11 @@ function printProducts(responseDataInJson, bankName) {
     }
   }
 
-  // console.log("\n\nproducts1.length: " + products1.length);
-  let productsCount = products1.length;
   var filename = "./opt/PRODUCTS/" + bankName + "/fitbit/products.json";
 
   /* Format the response as desired by fitbit companion*/
-
-  // var productReadyForFitbit = "{\"products\":" + JSON.stringify(products1, null, 2) + "}";
-  var productReadyForFitbit = "{\"data\": {\"products\":" + JSON.stringify(products1, null, 2) + "},\"size\": \"" + productsCount + "\"}";
-
+  var productReadyForFitbit = "{\"products\":" + JSON.stringify(products1, null, 2) + "}";
+  
   fs.writeFileSync(filename, productReadyForFitbit, {
     flag: 'w'
   }, function(err) {
