@@ -12,6 +12,12 @@ var options = {
   timeZone: 'Australia/Sydney',
 };
 
+const optionsAU_DD_MMM_YYY = {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric'
+};
+
 const optionsAU = {
   year: 'numeric',
   month: 'short',
@@ -20,6 +26,10 @@ const optionsAU = {
   hour: 'numeric',
   minute: 'numeric'
 };
+
+function getLocalDateAndTime_AU_DD_MMM_YYY() {
+  return date.toLocaleDateString("en-AU", optionsAU_DD_MMM_YYY)
+}
 
 function getLocalDateAndTime_AU() {
   return date.toLocaleDateString("en-AU", optionsAU)
@@ -38,5 +48,6 @@ function printDateAndTime() {
 module.exports = {
   getLocalDateAndTime,
   getLocalDateAndTime_AU,
-  printDateAndTime
+  printDateAndTime,
+  getLocalDateAndTime_AU_DD_MMM_YYY
 };
