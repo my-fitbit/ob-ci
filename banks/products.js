@@ -73,7 +73,7 @@ function printProducts(responseDataInJson, bankName, productTypes) {
 
     if (i == prodCount - 1) {
       name_0 = bankName + " - Product's !\n" + titleCaseProductype; // This is the first screen of APP, shall have bank name
-      desc_0 = "Thank you for using `my Bank-AU` app ♥  .\n\nThis data was last updated on :\n" + now.getLocalDateAndTime_AU_DD_MMM_YYY() + "\n\nTo know more about open banking in Australia, 🇦🇺 :\n\nhttps://treasury.gov.au/consumer-data-right."
+      desc_0 = "Thank you for using `my Bank-AU` app ♥  .\n\nThis data was last updated on :\n" + now.getLocalDateAndTime_AU_DD_MMM_YYY() + "\n\nTo know more about open banking in Australia, visit :\n\nhttps://treasury.gov.au/consumer-data-right."
 
       // Add this to begining of array
       products1.unshift({
