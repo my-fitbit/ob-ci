@@ -20,7 +20,7 @@
       {
         "productId": "084a4d49-6285-4f9d-911d-02a728cc3337",
         "lastUpdated": "2020-06-30T23:59:59+10:00",
-        "productCategory": "MARGIN_LOANS",
+        "productCategory": "BUSINESS_LOANS",
         "name": "NAB Equity Builder",
         "description": "Grow your investments beyond property. Diversify and invest in financial assets with loans starting from $10K.",
         "brand": "NAB",
@@ -719,9 +719,9 @@
     ]
   },
   "links": {
-    "self": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=100",
-    "first": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=100",
-    "last": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=100"
+    "self": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=500",
+    "first": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=500",
+    "last": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=500"
   },
   "meta": {
     "totalRecords": 48,

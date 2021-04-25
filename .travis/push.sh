@@ -8,14 +8,14 @@ echo
     git config --global user.name "Travis CI"
 }
 
-commit_response_files() {  	
+commit_response_files() {
 
 echo "TRAVIS_BUILD_NUMBER : $TRAVIS_BUILD_NUMBER"
 echo
 
   git checkout -b travis-ci
   git add .
-  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit --message "Travis CI build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
@@ -32,7 +32,7 @@ echo
 echo "now Pushing changes to another branch"
 
 
-  git push -f --quiet --set-upstream origin travis-ci 
+  git push -f --quiet --set-upstream origin travis-ci
 }
 
 # setup_git

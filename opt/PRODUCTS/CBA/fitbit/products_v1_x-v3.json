@@ -1199,10 +1199,10 @@
         "productId": "d7c55e295f504692a54360f0d2092c23",
         "effectiveFrom": "2019-07-23T00:00:01Z",
         "effectiveTo": "9999-12-30T13:00:00Z",
-        "lastUpdated": "2020-06-12T02:00:00Z",
+        "lastUpdated": "2021-04-20T14:00:00Z",
         "productCategory": "BUSINESS_LOANS",
         "name": "Better Business Loan",
-        "description": "You could borrow funds from $10,000, with rate and repayment options to suit your business.",
+        "description": "A simple loan to help you manage or grow your business. It can be secured or unsecured with flexible repayment options. For Businesses that want to borrow from $10,000 for business purposes, want to make extra repayments and access them with redraw, want to pay interest only on the amount they owe and want flexibility in how they repay their loan.",
         "brand": "CBA",
         "brandName": "CommBank",
         "applicationUri": "https://www.commbank.com.au/business/loans-and-finance/business-loans/betterbusiness-loan.html?ei=BBL#apply",
@@ -1236,10 +1236,10 @@
         "productId": "d7c55e295f504692a54360f0d2092c25",
         "effectiveFrom": "2019-07-23T00:00:01Z",
         "effectiveTo": "9999-12-30T13:00:00Z",
-        "lastUpdated": "2020-06-12T02:00:00Z",
+        "lastUpdated": "2021-04-20T14:00:00Z",
         "productCategory": "BUSINESS_LOANS",
         "name": "Business Overdraft",
-        "description": "Do business your way, with access to available funds to help manage cash flow when you need it.",
+        "description": "Access additional funds directly from your business transaction account, to manage your business cash flow or unexpected expenses.",
         "brand": "CBA",
         "brandName": "CommBank",
         "applicationUri": "https://www.commbank.com.au/business/loans-and-finance/business-overdraft.html#apply",
@@ -1348,9 +1348,9 @@
     ]
   },
   "links": {
-    "self": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=100&page=1",
-    "first": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=100&page=1",
-    "last": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=100&page=1"
+    "self": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=500&page=1",
+    "first": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=500&page=1",
+    "last": "https://api.commbank.com.au/public/cds-au/v1/banking/products?page-size=500&page=1"
   },
   "meta": {
     "totalRecords": 72,

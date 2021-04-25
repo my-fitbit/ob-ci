@@ -110,3 +110,7 @@ todo.md
 
 # VS code setting
 .vscode/*
+
+# local files
+todo.md
+opt/temp.js

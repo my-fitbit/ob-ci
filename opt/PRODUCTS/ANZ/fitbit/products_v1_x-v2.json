@@ -3,9 +3,48 @@
     "products": [
       {
         "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/standard-variable-rate/?CID=af:obank:hl",
+          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
+          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
+          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
+        },
+        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Line of credit secured by your property. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
+        "effectiveFrom": "2020-01-31T13:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "name": "ANZ Equity Manager (with Breakfree Package)",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "productId": "37912a9e-dbec-41f8-b4ab-ddcd963f0121"
+      },
+      {
+        "additionalInformation": {
+          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
+          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/fixed-rate/?CID=af:obank:hl",
+          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
+        },
+        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "The certainty of fixed repayments. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts",
+        "effectiveFrom": "2020-01-31T13:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "name": "ANZ Fixed Loan (with Breakfree Package)",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "productId": "3fb9e10c-6560-4471-83bc-c5edf92ebeef"
+      },
+      {
+        "additionalInformation": {
+          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
+          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
           "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/standard-variable-rate/?CID=af:obank:hl",
-          "overviewUri": "https://www.anz.com.au/personal/home-loans/standard-variable-rate/?CID=af:obank:hl",
+          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
           "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
         },
         "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
@@ -14,98 +53,10 @@
         "description": "The flexibility you need. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
         "effectiveFrom": "2020-01-31T13:00:00.000Z",
         "isTailored": false,
-        "lastUpdated": "2021-03-26T05:00:00.000Z",
-        "name": "ANZ Standard Variable Loan (without Breakfree Package)",
+        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "name": "ANZ Standard Variable Loan (with Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
-        "productId": "f71660e7-51a9-4029-b4d0-39d09489d7bc"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/advance-notice/?CID=af:obank:tv",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/advance-notice/?CID=af:obank:tv",
-          "overviewUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/advance-notice/?CID=af:obank:tv",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?&CID=af:obank:tv#FTPDS"
-        },
-        "applicationUri": "https://applyonline.anz.com/dsr-dep/deposits/apply?apptype=AN&sourcecode_1=QAA&CID=af:obank:sv",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Enjoy the certainty of fixed returns over the investment term of your choice",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-25T13:00:00.000Z",
-        "name": "ANZ Advance Notice Term Deposit",
-        "productCategory": "TERM_DEPOSITS",
-        "productId": "2d41a5d3-0c8d-d5e9-cadc-195410627e08"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/anz-term-deposit/?CID=af:obank:sv",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/anz-term-deposit/?CID=af:obank:sv",
-          "overviewUri": "https://www.anz.com.au/personal/bank-accounts/term-deposits/anz-term-deposit/?CID=af:obank:sv",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:sv#FTPDS"
-        },
-        "applicationUri": "https://applyonline.anz.com/dsr-dep/deposits/apply?apptype=TD&sourcecode_1=QRI&CID=af:obank:sv#!start",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Enjoy the security of a fixed rate of interest over the investment term of your choice.",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-25T13:00:00.000Z",
-        "name": "ANZ Term Deposit",
-        "productCategory": "TERM_DEPOSITS",
-        "productId": "4438b7ed-e889-1ff0-4599-4524d5f55ae3"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/business/products/accounts/savings-accounts/business-term-deposit/?CID=af:obank:bb",
-          "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/savings-accounts/business-term-deposit/?CID=af:obank:bb",
-          "overviewUri": "https://www.anz.com.au/business/products/accounts/savings-accounts/business-term-deposit/?CID=af:obank:bb",
-          "termsUri": "https://www.anz.com.au/business/help-support/terms-conditions/?section=SBS&CID=af:obank:bb"
-        },
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Business term deposit with flexible terms requiring 31 days notice of withdrawal (fees apply)",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-25T13:00:00.000Z",
-        "name": "ANZ Business Notice Term Deposit",
-        "productCategory": "TERM_DEPOSITS",
-        "productId": "4740c27d-eb72-375d-2d25-ad256ed37b1e"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/investing-super/online-share-investing/products/cash-investment-account/?CID=af:obank:xc",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/investing-super/online-share-investing/products/cash-investment-account/?CID=af:obank:xc",
-          "overviewUri": "https://www.anz.com.au/personal/investing-super/online-share-investing/products/cash-investment-account/?CID=af:obank:xc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:xc#FTPDS"
-        },
-        "applicationUri": "https://shareinvestingapp.anz.com/?CID=af:obank:xc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A simple account that lets you transact, trade and settle with your own cash.",
-        "effectiveFrom": "2020-06-30T22:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-25T13:00:00.000Z",
-        "name": "ANZ Cash Investment Account",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "productId": "9b385be6-5675-4750-9d94-60101e394a23"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/bank-accounts/smsf-cash-account/?CID=af:obank:iv",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/bank-accounts/smsf-cash-account/?CID=af:obank:iv",
-          "overviewUri": "https://www.anz.com.au/personal/bank-accounts/smsf-cash-account/?CID=af:obank:iv",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:iv#FTPDS"
-        },
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Self managed super is easier than ever, with all you need to use, move and manage your SMSF cash in one place.",
-        "effectiveFrom": "2020-06-30T22:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-25T13:00:00.000Z",
-        "name": "ANZ SMSF Cash Hub Account",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "productId": "ef5d9d5e-f822-4e9f-8b95-f0683115539f"
+        "productId": "fbcfd277-25c3-44c0-94ad-5c4cf028e2ce"
       },
       {
         "additionalInformation": {
@@ -124,25 +75,6 @@
         "name": "ANZ Fixed Loan (without Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "3a86f9e4-1b41-4222-9091-5934d1fc9178"
-      },
-      {
-        "additionalInformation": {
-          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
-          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/fixed-rate/?CID=af:obank:hl",
-          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
-        },
-        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "The certainty of fixed repayments. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-04-16T04:00:00.000Z",
-        "name": "ANZ Fixed Loan (with Breakfree Package)",
-        "productCategory": "RESIDENTIAL_MORTGAGES",
-        "productId": "3fb9e10c-6560-4471-83bc-c5edf92ebeef"
       },
       {
         "additionalInformation": {
@@ -179,25 +111,6 @@
         "name": "ANZ Standard Variable Loan (without Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "f71660e7-51a9-4029-b4d0-39d09489d7bc"
-      },
-      {
-        "additionalInformation": {
-          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
-          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/standard-variable-rate/?CID=af:obank:hl",
-          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
-        },
-        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "The flexibility you need. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-04-16T04:00:00.000Z",
-        "name": "ANZ Standard Variable Loan (with Breakfree Package)",
-        "productCategory": "RESIDENTIAL_MORTGAGES",
-        "productId": "fbcfd277-25c3-44c0-94ad-5c4cf028e2ce"
       },
       {
         "additionalInformation": {
@@ -512,25 +425,6 @@
         "name": "ANZ Access Basic",
         "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
         "productId": "dbc12167-d706-13e3-14bd-190a25356ddb"
-      },
-      {
-        "additionalInformation": {
-          "bundleUri": "https://www.anz.com.au/personal/home-loans/package/",
-          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
-          "overviewUri": "https://www.anz.com.au/personal/home-loans/package/?CID=af:obank:hl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
-        },
-        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Line of credit secured by your property. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-14T13:00:00.000Z",
-        "name": "ANZ Equity Manager (with Breakfree Package)",
-        "productCategory": "RESIDENTIAL_MORTGAGES",
-        "productId": "37912a9e-dbec-41f8-b4ab-ddcd963f0121"
       },
       {
         "additionalInformation": {
@@ -981,9 +875,9 @@
     ]
   },
   "links": {
-    "first": "https://api.anz/cds-au/v1/banking/products?page=1&page-size=100",
-    "last": "https://api.anz/cds-au/v1/banking/products?page=1&page-size=100",
-    "self": "https://api.anz/cds-au/v1/banking/products?page-size=100"
+    "first": "https://api.anz/cds-au/v1/banking/products?page=1&page-size=500",
+    "last": "https://api.anz/cds-au/v1/banking/products?page=1&page-size=500",
+    "self": "https://api.anz/cds-au/v1/banking/products?page-size=500"
   },
   "meta": {
     "totalPages": 1,
