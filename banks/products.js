@@ -73,7 +73,7 @@ function printProducts(responseDataInJson, bankName, productTypes) {
 
     if (i == prodCount - 1) {
       name_0 = bankName + " - Product's !\n" + titleCaseProductype; // This is the first screen of APP, shall have bank name
-      desc_0 = "Thank you for using `my Bank-AU` app.\n\nThis data was last updated on : " + now.getLocalDateAndTime_AU_DD_MMM_YYY() + "\n\nTo know more about open banking in Australia, visit:\n\nhttps://treasury.gov.au/consumer-data-right"
+      desc_0 = "Thank you for using `my Bank-AU` app ♥  .\n\nThis data was last updated on :\n" + now.getLocalDateAndTime_AU_DD_MMM_YYY() + "\n\nTo know more about open banking in Australia, 🇦🇺 :\n\nhttps://treasury.gov.au/consumer-data-right."
 
       // Add this to begining of array
       products1.unshift({
@@ -82,7 +82,7 @@ function printProducts(responseDataInJson, bankName, productTypes) {
       })
 
       name_n = "Disclaimer !!"
-      desc_n = "The content of this app is provided for information purposes only.\n\nThe public (open) data available from this app is intended as a general reference source. Users are encouraged to check with the individual bank to make any financial decision.\n\nThe Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app."
+      desc_n = "The content of this app is provided for information purposes only.\n\nThe public (open) data available in this app is intended to be general reference source.]\n\nUsers are encouraged to check with the individual bank before making any financial decision.\n\n❗❗ The Developer of the app does not guarantee, and accepts no legal liability whatsoever arising from, or connected to, the use of any material contained in this app."
 
       // Add this to end of the array //push
       products1.unshift({
