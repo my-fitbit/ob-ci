@@ -110,6 +110,20 @@
         }
       },
       {
+        "productId": "1bf7152c-0395-4d93-8c01-72fab438df11",
+        "lastUpdated": "2020-06-30T23:59:59+10:00",
+        "productCategory": "TERM_DEPOSITS",
+        "name": "NAB Foreign Currency Term Deposit",
+        "description": "Just because you’re not using your foreign currency, doesn’t mean it can’t work for you. Earn interest with a safe and flexible term deposit.",
+        "brand": "NAB",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.nab.com.au/fctd",
+          "termsUri": "https://www.nab.com.au/content/dam/nabrwd/documents/pds/banking/foreign-currency-term-deposit-disclosure-statement.pdf",
+          "feesAndPricingUri": "https://www.nab.com.au/fctd"
+        }
+      },
+      {
         "productId": "24873cd3-7660-42b4-8e05-92b2c846a052",
         "lastUpdated": "2020-11-20T23:59:59+10:00",
         "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
@@ -250,7 +264,6 @@
         "name": "NAB Novated Lease",
         "description": "Choose the vehicle you want with salary packaging, providing a range of benefits for businesses and employees.",
         "brand": "NAB",
-        "applicationUri": "https://nabquickbizloan.nab.com.au/#/equipment-loan/start",
         "isTailored": true,
         "additionalInformation": {
           "overviewUri": "https://www.nab.com.au/business/loans-and-finance/vehicle-or-equipment/novated-lease",
@@ -297,12 +310,12 @@
         "name": "NAB Tailored Home Loan",
         "description": "Pay off your home loan sooner with our feature-packed, flexible home loan.",
         "brand": "NAB",
-        "applicationUri": "https://www.nab.com.au/personal/home-loans/nab-online-conditional-approval",
         "isTailored": false,
         "additionalInformation": {
           "overviewUri": "https://www.nab.com.au/personal/home-loans/nab-tailored-home-loan",
           "termsUri": "https://www.nab.com.au/personal/home-loans/nab-tailored-home-loan",
-          "feesAndPricingUri": "https://www.nab.com.au/content/dam/nabrwd/documents/guides/banking/personal-banking-fees-and-charges-guide.pdf"
+          "feesAndPricingUri": "https://www.nab.com.au/content/dam/nabrwd/documents/guides/banking/personal-banking-fees-and-charges-guide.pdf",
+          "bundleUri": "https://www.nab.com.au/personal/home-loans/nab-choice-package"
         }
       },
       {
@@ -364,6 +377,19 @@
           "termsUri": "https://www.nab.com.au/personal/credit-cards/qantas-rewards/nab-qantas-rewards-signature-card",
           "eligibilityUri": "https://www.nab.com.au/personal/credit-cards/qantas-rewards/nab-qantas-rewards-signature-card",
           "feesAndPricingUri": "https://www.nab.com.au/personal/help-and-guidance/personal-banking-fees-and-charges#3a"
+        }
+      },
+      {
+        "productId": "9219179c-e1cd-4de1-b0a9-12e47c16fcff",
+        "lastUpdated": "2019-09-30T23:59:59+10:00",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "name": "NAB Project Trusts",
+        "description": "If you’re in the building industry, NAB Project Trusts can help avoid untimely, incorrect and non-payments.",
+        "brand": "NAB",
+        "applicationUri": "https://www.nab.com.au/business/accounts/specialised-accounts/project-trusts",
+        "isTailored": true,
+        "additionalInformation": {
+          "overviewUri": "https://www.nab.com.au/business/accounts/specialised-accounts/project-trusts"
         }
       },
       {
@@ -521,7 +547,9 @@
         "additionalInformation": {
           "overviewUri": "https://www.nab.com.au/personal/home-loans/nab-defence-force-home-loan",
           "termsUri": "https://www.nab.com.au/personal/home-loans/nab-defence-force-home-loan",
-          "feesAndPricingUri": "https://www.nab.com.au/content/dam/nabrwd/documents/guides/banking/personal-banking-fees-and-charges-guide.pdf"
+          "eligibilityUri": "https://www.nab.com.au/personal/home-loans/nab-defence-force-home-loan",
+          "feesAndPricingUri": "https://www.nab.com.au/content/dam/nabrwd/documents/guides/banking/personal-banking-fees-and-charges-guide.pdf",
+          "bundleUri": "https://www.nab.com.au/personal/home-loans/nab-defence-force-home-loan/nab-defence-force-home-loan-choice-package"
         }
       },
       {
@@ -531,7 +559,7 @@
         "name": "Business Cash Maximiser",
         "description": "An online savings account earning interest on every dollar when your balance is $10,000 or more.",
         "brand": "NAB",
-        "applicationUri": "Business account eligibility checklist | Applying online - NAB",
+        "applicationUri": "https://www.nab.com.au/business/accounts/nab-business-cash-maximiser-account-checklist",
         "isTailored": false,
         "additionalInformation": {
           "overviewUri": "https://www.nab.com.au/business/accounts/savings-and-deposit-accounts/nab-business-cash-maximiser-account",
@@ -623,6 +651,7 @@
         "additionalInformation": {
           "overviewUri": "https://www.nab.com.au/personal/home-loans/nab-base-variable-rate-home-loan",
           "termsUri": "https://www.nab.com.au/personal/home-loans/nab-base-variable-rate-home-loan",
+          "eligibilityUri": "https://www.nab.com.au/content/dam/nabrwd/documents/fact-sheets/loans/nab-basic-variable-product-sheet-pdf.pdf",
           "feesAndPricingUri": "https://www.nab.com.au/content/dam/nabrwd/documents/guides/banking/personal-banking-fees-and-charges-guide.pdf"
         }
       },
@@ -724,7 +753,7 @@
     "last": "https://openbank.api.nab.com.au/cds-au/v1/banking/products?page=1&page-size=500"
   },
   "meta": {
-    "totalRecords": 48,
+    "totalRecords": 50,
     "totalPages": 1
   }
 }

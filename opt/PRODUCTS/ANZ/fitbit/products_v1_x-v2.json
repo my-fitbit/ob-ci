@@ -15,7 +15,7 @@
         "description": "Line of credit secured by your property. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
         "effectiveFrom": "2020-01-31T13:00:00.000Z",
         "isTailored": false,
-        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "lastUpdated": "2021-05-20T07:00:00.000Z",
         "name": "ANZ Equity Manager (with Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "37912a9e-dbec-41f8-b4ab-ddcd963f0121"
@@ -34,7 +34,7 @@
         "description": "The certainty of fixed repayments. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts",
         "effectiveFrom": "2020-01-31T13:00:00.000Z",
         "isTailored": false,
-        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "lastUpdated": "2021-05-20T07:00:00.000Z",
         "name": "ANZ Fixed Loan (with Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "3fb9e10c-6560-4471-83bc-c5edf92ebeef"
@@ -53,7 +53,7 @@
         "description": "The flexibility you need. Bundle your home loan, everyday account and credit card into an ANZ Breakfree package with ongoing benefits and discounts.",
         "effectiveFrom": "2020-01-31T13:00:00.000Z",
         "isTailored": false,
-        "lastUpdated": "2021-04-18T14:00:00.000Z",
+        "lastUpdated": "2021-05-20T07:00:00.000Z",
         "name": "ANZ Standard Variable Loan (with Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "fbcfd277-25c3-44c0-94ad-5c4cf028e2ce"
@@ -71,10 +71,278 @@
         "description": "The certainty of fixed repayments",
         "effectiveFrom": "2020-01-31T13:00:00.000Z",
         "isTailored": false,
-        "lastUpdated": "2021-04-16T04:00:00.000Z",
+        "lastUpdated": "2021-05-14T07:00:00.000Z",
         "name": "ANZ Fixed Loan (without Breakfree Package)",
         "productCategory": "RESIDENTIAL_MORTGAGES",
         "productId": "3a86f9e4-1b41-4222-9091-5934d1fc9178"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl#rates",
+          "overviewUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:pl"
+        },
+        "applicationUri": "https://onlineapps.anz.com/personal-loan/?pcode=PLVR&CID=af:obank:pl#/start",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Whether you're looking to buy a new car, take a holiday, renovate your home or you want to consolidate debt, we could help you with an ANZ Variable Rate Personal Loan",
+        "effectiveFrom": "2020-01-31T13:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-05-11T21:00:00.000Z",
+        "name": "ANZ Variable Rate Personal Loan",
+        "productCategory": "PERS_LOANS",
+        "productId": "b4f9f303-2634-4b0d-94c5-84b6a8395920"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl#rates",
+          "overviewUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:pl"
+        },
+        "applicationUri": "https://onlineapps.anz.com/personal-loan/?pcode=PLFR&CID=af:obank:pl#/start",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Get what you want with the certainty of fixed repayments",
+        "effectiveFrom": "2020-01-31T13:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-05-11T21:00:00.000Z",
+        "name": "ANZ Fixed Rate Personal Loan",
+        "productCategory": "PERS_LOANS",
+        "productId": "cbb832c8-9f1e-443f-99ed-da407a384f86"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "overviewUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "termsUri": "https://www.anz.com.au/business/help-support/terms-conditions/?section=SBS&CID=af:obank:ag"
+        },
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "A tax efficient investment account for primary producers that can help you manage uneven cashflow",
+        "effectiveFrom": "2020-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-29T14:00:00.000Z",
+        "name": "Farm Management Deposit Fixed Term",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "productId": "34fde390-c762-4c5b-90f1-f65af6c0aa3b"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "overviewUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
+          "termsUri": "https://www.anz.com.au/business/help-support/terms-conditions/?section=SBS&CID=af:obank:ag"
+        },
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "A tax efficient investment account for primary producers that can help you manage uneven cashflow",
+        "effectiveFrom": "2020-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-29T14:00:00.000Z",
+        "name": "Farm Management Deposit At Call",
+        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
+        "productId": "79c2b4dd-7c4d-4f06-b8b4-874eb2178e31"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first/?CID=af:obank:tv#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first/?CID=af:obank:tv#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first?CID=af:obank:tv",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:tv"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IWZN&apptype=FV&CID=af:obank:tv",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "A simple everyday credit card with a low ongoing annual fee",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ First",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "1f9a67ea-8fda-cab0-e9d3-7ab9d0627545"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?apptype=RTA&sourcecode_1=IWSV&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Get ready for your next adventure with the credit card that gets you travelling",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Rewards Travel Adventures",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "28c4afac-12e0-2ac2-7091-e62dfdccfe53"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXMD&apptype=FFB&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Our most rewarding Qantas experience",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Frequent Flyer Black",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "325e19d1-2a52-53c6-073e-4b01e86e6936"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IWZE&apptype=GV&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "A simple everyday credit card with $0 annual fee in the first year and complimentary insurances (conditions and exclusions apply)",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Platinum",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "4cfce209-2f9c-e506-0dd6-7de6bd04e6d6"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/black/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/black/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/black?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXKR&apptype=RB&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Our highest Reward Points earning potential",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Rewards Black",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "6396b1bd-1c47-9c28-59b8-6847f208a9a7"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/card/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/card/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/card?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXJL&apptype=RV&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Be rewarded for your everyday purchases and have the flexibility to redeem points for rewards ranging from gift cards to cashback and travel",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Rewards",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "7c277163-1b71-d314-0f1f-b7e713b5eaf4"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?apptype=LRV&sourcecode_1=IXCO&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "A credit card with a low ongoing interest rate for your everyday purchases",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Low Rate",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "7c74f4ae-4965-08a0-c5c0-7bf2c677269b"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXKA&apptype=FFP&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Earn Qantas Points on everyday purchases with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Frequent Flyer Platinum",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "d8101ca7-369f-f465-27f6-50f388c81b3a"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXMX&apptype=FF&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Earn Qantas Points on your everyday purchases",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Frequent Flyer",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "e51a2957-8520-ca83-be3c-9e46512e4fba"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum/?CID=af:obank:cc#eligibility",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum/?CID=af:obank:cc#rates",
+          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum?CID=af:obank:cc",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
+        },
+        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXLH&apptype=RVG&CID=af:obank:cc",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Be rewarded for your everyday purchases and access a flexible Rewards program with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
+        "effectiveFrom": "2019-06-30T14:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-27T00:30:00.000Z",
+        "name": "ANZ Rewards Platinum",
+        "productCategory": "CRED_AND_CHRG_CARDS",
+        "productId": "f60fb83e-bbfb-abe3-07e2-f70acf7e30ca"
+      },
+      {
+        "additionalInformation": {
+          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
+          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
+          "overviewUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
+          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
+        },
+        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
+        "brand": "ANZ",
+        "cardArt": [],
+        "description": "Line of credit that helps you turn the equity in your home into money you can actually use. You'll be able to access it any time, just like an everyday banking account.",
+        "effectiveFrom": "2020-01-31T13:00:00.000Z",
+        "isTailored": false,
+        "lastUpdated": "2021-04-26T06:30:00.000Z",
+        "name": "ANZ Equity Manager (without Breakfree Package)",
+        "productCategory": "RESIDENTIAL_MORTGAGES",
+        "productId": "3ed59e50-572d-4883-ad0a-2282c786506e"
       },
       {
         "additionalInformation": {
@@ -256,23 +524,6 @@
       },
       {
         "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "overviewUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "termsUri": "https://www.anz.com.au/business/help-support/terms-conditions/?section=SBS&CID=af:obank:ag"
-        },
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A tax efficient investment account for primary producers that can help you manage uneven cashflow",
-        "effectiveFrom": "2020-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-02-01T04:00:00.000Z",
-        "name": "Farm Management Deposit Fixed Term",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "productId": "34fde390-c762-4c5b-90f1-f65af6c0aa3b"
-      },
-      {
-        "additionalInformation": {
           "eligibilityUri": "https://www.anz.com.au/business/products/accounts/transaction-accounts/business-extra/?CID=af:obank:bb",
           "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/transaction-accounts/business-extra/?CID=af:obank:bb",
           "overviewUri": "https://www.anz.com.au/business/products/accounts/transaction-accounts/business-extra/?CID=af:obank:bb",
@@ -360,23 +611,6 @@
       },
       {
         "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "overviewUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/farm-management-deposits/?CID=af:obank:ag",
-          "termsUri": "https://www.anz.com.au/business/help-support/terms-conditions/?section=SBS&CID=af:obank:ag"
-        },
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A tax efficient investment account for primary producers that can help you manage uneven cashflow",
-        "effectiveFrom": "2020-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2021-01-31T12:00:00.000Z",
-        "name": "Farm Management Deposit At Call",
-        "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
-        "productId": "79c2b4dd-7c4d-4f06-b8b4-874eb2178e31"
-      },
-      {
-        "additionalInformation": {
           "eligibilityUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/statutory-accounts/?CID=af:obank:bb",
           "feesAndPricingUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/statutory-accounts/?CID=af:obank:bb",
           "overviewUri": "https://www.anz.com.au/business/products/accounts/specialist-accounts/statutory-accounts/?CID=af:obank:bb",
@@ -428,150 +662,6 @@
       },
       {
         "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
-          "overviewUri": "https://www.anz.com.au/personal/home-loans/equity-manager/?CID=af:obank:hl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:hl#FTPDS"
-        },
-        "applicationUri": "https://www.anz.com.au/personal/home-loans/apply-home-loan/home-loan-application/?CID=af:obank:hl",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Line of credit that helps you turn the equity in your home into money you can actually use. You'll be able to access it any time, just like an everyday banking account.",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-14T13:00:00.000Z",
-        "name": "ANZ Equity Manager (without Breakfree Package)",
-        "productCategory": "RESIDENTIAL_MORTGAGES",
-        "productId": "3ed59e50-572d-4883-ad0a-2282c786506e"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first/?CID=af:obank:tv#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first/?CID=af:obank:tv#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/first?CID=af:obank:tv",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:tv"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IWZN&apptype=FV&CID=af:obank:tv",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A simple everyday credit card with a low ongoing annual fee",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ First",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "1f9a67ea-8fda-cab0-e9d3-7ab9d0627545"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/travel-adventures?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?apptype=RTA&sourcecode_1=IWSV&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Get ready for your next adventure with the credit card that gets you travelling",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Rewards Travel Adventures",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "28c4afac-12e0-2ac2-7091-e62dfdccfe53"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/black?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXMD&apptype=FFB&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Our most rewarding Qantas experience",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Frequent Flyer Black",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "325e19d1-2a52-53c6-073e-4b01e86e6936"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-annual-fee/platinum?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IWZE&apptype=GV&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A simple everyday credit card with $0 annual fee in the first year and complimentary insurances (conditions and exclusions apply)",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Platinum",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "4cfce209-2f9c-e506-0dd6-7de6bd04e6d6"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/black/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/black/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/black?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXKR&apptype=RB&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Our highest Reward Points earning potential",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Rewards Black",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "6396b1bd-1c47-9c28-59b8-6847f208a9a7"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/platinum?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXKA&apptype=FFP&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Earn Qantas Points on everyday purchases with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Frequent Flyer Platinum",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "d8101ca7-369f-f465-27f6-50f388c81b3a"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/platinum?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXLH&apptype=RVG&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Be rewarded for your everyday purchases and access a flexible Rewards program with complimentary insurances (conditions and exclusions apply) and Personal Concierge",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-12-01T13:01:00.000Z",
-        "name": "ANZ Rewards Platinum",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "f60fb83e-bbfb-abe3-07e2-f70acf7e30ca"
-      },
-      {
-        "additionalInformation": {
           "eligibilityUri": "https://www.anz.com.au/personal/bank-accounts/everyday-accounts/pensioner-advantage/?CID=af:obank:tv",
           "feesAndPricingUri": "https://www.anz.com.au/personal/bank-accounts/everyday-accounts/pensioner-advantage/?CID=af:obank:tv",
           "overviewUri": "https://www.anz.com.au/personal/bank-accounts/everyday-accounts/pensioner-advantage/?CID=af:obank:tv",
@@ -586,42 +676,6 @@
         "name": "ANZ Pensioner Advantage Account",
         "productCategory": "TRANS_AND_SAVINGS_ACCOUNTS",
         "productId": "f9ec7ae4-f606-0e91-9403-d6ce664eb765"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl#rates",
-          "overviewUri": "https://www.anz.com.au/personal/personal-loans/variable-rate/?CID=af:obank:pl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:pl"
-        },
-        "applicationUri": "https://onlineapps.anz.com/personal-loan/?pcode=PLVR&CID=af:obank:pl#/start",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Whether you're looking to buy a new car, take a holiday, renovate your home or you want to consolidate debt, we could help you with an ANZ Variable Rate Personal Loan",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-09-29T14:00:00.000Z",
-        "name": "ANZ Variable Rate Personal Loan",
-        "productCategory": "PERS_LOANS",
-        "productId": "b4f9f303-2634-4b0d-94c5-84b6a8395920"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl#rates",
-          "overviewUri": "https://www.anz.com.au/personal/personal-loans/fixed-rate/?CID=af:obank:pl",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:pl"
-        },
-        "applicationUri": "https://onlineapps.anz.com/personal-loan/?pcode=PLFR&CID=af:obank:pl#/start",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Get what you want with the certainty of fixed repayments",
-        "effectiveFrom": "2020-01-31T13:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2020-09-29T14:00:00.000Z",
-        "name": "ANZ Fixed Rate Personal Loan",
-        "productCategory": "PERS_LOANS",
-        "productId": "cbb832c8-9f1e-443f-99ed-da407a384f86"
       },
       {
         "additionalInformation": {
@@ -749,42 +803,6 @@
       },
       {
         "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/rewards/card/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/rewards/card/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/rewards/card?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXJL&apptype=RV&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Be rewarded for your everyday purchases and have the flexibility to redeem points for rewards ranging from gift cards to cashback and travel",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2019-08-22T14:00:00.000Z",
-        "name": "ANZ Rewards",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "7c277163-1b71-d314-0f1f-b7e713b5eaf4"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/low-interest-rate/low-rate-card?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?apptype=LRV&sourcecode_1=IXCO&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "A credit card with a low ongoing interest rate for your everyday purchases",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2019-08-22T14:00:00.000Z",
-        "name": "ANZ Low Rate",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "7c74f4ae-4965-08a0-c5c0-7bf2c677269b"
-      },
-      {
-        "additionalInformation": {
           "eligibilityUri": "https://www.anz.com.au/business/products/credit-cards/business-black/?CID=af:obank:cm#eligibility",
           "feesAndPricingUri": "https://www.anz.com.au/business/products/credit-cards/business-black/?CID=af:obank:cm#rates",
           "overviewUri": "https://www.anz.com.au/business/products/credit-cards/business-black/?CID=af:obank:cm",
@@ -835,24 +853,6 @@
         "name": "ANZ Business Low Rate",
         "productCategory": "CRED_AND_CHRG_CARDS",
         "productId": "ca69da6f-d4e9-ba91-1aba-41fa429f031e"
-      },
-      {
-        "additionalInformation": {
-          "eligibilityUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card/?CID=af:obank:cc#eligibility",
-          "feesAndPricingUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card/?CID=af:obank:cc#rates",
-          "overviewUri": "https://www.anz.com.au/personal/credit-cards/frequent-flyer/card?CID=af:obank:cc",
-          "termsUri": "http://www.anz.com/auxiliary/rates-fees-terms/fees-terms-conditions/?CID=af:obank:cc"
-        },
-        "applicationUri": "https://creditcardapp.anz.com/#/?sourcecode_1=IXMX&apptype=FF&CID=af:obank:cc",
-        "brand": "ANZ",
-        "cardArt": [],
-        "description": "Earn Qantas Points on your everyday purchases",
-        "effectiveFrom": "2019-06-30T14:00:00.000Z",
-        "isTailored": false,
-        "lastUpdated": "2019-08-22T14:00:00.000Z",
-        "name": "ANZ Frequent Flyer",
-        "productCategory": "CRED_AND_CHRG_CARDS",
-        "productId": "e51a2957-8520-ca83-be3c-9e46512e4fba"
       },
       {
         "additionalInformation": {
